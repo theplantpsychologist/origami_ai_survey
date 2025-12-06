@@ -1,6 +1,8 @@
 import numpy as np
 import csv
 import re
+from scipy.stats import binom
+from numpy.polynomial import polynomial as P
 import matplotlib.pyplot as plt
 
 
@@ -87,57 +89,132 @@ def import_and_clean_csv(filepath):
 if __name__ == "__main__":
     # Replace with your CSV file path
     csv_file = "raw_data.csv"
-    data = import_and_clean_csv(csv_file)
+    responses = import_and_clean_csv(csv_file)
 
-    data[:,0][data[:,0]=="I've folded Satoshi Kamiya's Ancient Dragon (or similar difficulty)"] = "advanced"
-    data[:,0][data[:,0]=="Some experience with simple models"] = "intermediate"
-    data[:,0][data[:,0]=="No experience"] = "beginner"
+    responses[:,0][responses[:,0]=="I've folded Satoshi Kamiya's Ancient Dragon (or similar difficulty)"] = "advanced"
+    responses[:,0][responses[:,0]=="Some experience with simple models"] = "intermediate"
+    responses[:,0][responses[:,0]=="No experience"] = "beginner"
     
     num_real = len(REAL_MODELS)
     num_ai = len(AI_MODELS)
     num_total = num_real + num_ai
 
-    data[:,1:num_real+1][data[:,1:num_real+1]=="Real"] = "1"
-    data[:,1:num_real+1][data[:,1:num_real+1]=="AI"] = "0"
-    data[data == "Not sure"] = NOT_SURE
-    data[:,num_real+1:num_real+num_ai+1][data[:,num_real+1:num_real+num_ai+1]=="AI"] = "1"
-    data[:,num_real+1:num_real+num_ai+1][data[:,num_real+1:num_real+num_ai+1]=="Real"] = "0"
+    scores = responses.copy()
+    scores[:,1:num_real+1][scores[:,1:num_real+1]=="Real"] = "1"
+    scores[:,1:num_real+1][scores[:,1:num_real+1]=="AI"] = "0"
+    scores[scores == "Not sure"] = NOT_SURE
+    scores[:,num_real+1:num_real+num_ai+1][scores[:,num_real+1:num_real+num_ai+1]=="AI"] = "1"
+    scores[:,num_real+1:num_real+num_ai+1][scores[:,num_real+1:num_real+num_ai+1]=="Real"] = "0"
     
     column_headers = ["experience"] + REAL_MODELS + AI_MODELS + ["confidence"]
-    cleaned_data = np.vstack([np.array(column_headers), data])
-    np.savetxt("cleaned_data.csv", cleaned_data, delimiter=",", fmt="%s")
+    np.savetxt("cleaned_data.csv", np.vstack([np.array(column_headers), scores]), delimiter=",", fmt="%s")
 
-    # =========================
 
-    scores = np.sum(cleaned_data[1:, 1:num_real+num_ai+1].astype(float), axis=1)
+    scores = np.sum(scores[:, 1:num_real+num_ai+1].astype(float), axis=1)
     # lean = (data=="Real").sum(axis=1)/13 - (data=="AI").sum(axis=1)/11
 
-    advanced_scores = scores[cleaned_data[1:, 0] == "advanced"]
-    intermediate_scores = scores[cleaned_data[1:, 0] == "intermediate"]
-    beginner_scores = scores[cleaned_data[1:, 0] == "beginner"]
+    advanced_responses = responses[responses[:, 0] == "advanced"]
+    intermediate_responses = responses[responses[:, 0] == "intermediate"]
+    beginner_responses = responses[responses[:, 0] == "beginner"]
 
-    fig, axes = plt.subplots(3,1, figsize=(15, 10))
+    advanced_scores = scores[responses[:, 0] == "advanced"]
+    intermediate_scores = scores[responses[:, 0] == "intermediate"]
+    beginner_scores = scores[responses[:, 0] == "beginner"]
 
-    axes[0].hist(advanced_scores, bins=range(0, 26), edgecolor='black', color='green')
-    axes[0].set_title("Advanced")
-    axes[0].set_xlabel("Score")
-    axes[0].set_ylabel("Frequency")
-    axes[0].set_xlim(0, 24)
+    # =========================
+    # Scoring Histograms
+    # =========================
 
-    axes[1].hist(intermediate_scores, bins=range(0, 26), edgecolor='black',color = "blue")
-    axes[1].set_title("Intermediate")
-    axes[1].set_xlabel("Score")
-    axes[1].set_ylabel("Frequency")
-    axes[1].set_xlim(0, 24)
-
-    axes[2].hist(beginner_scores, bins=range(0, 26), edgecolor='black',color = "red")
-    axes[2].set_title("Beginner")
-    axes[2].set_xlabel("Score")
-    axes[2].set_ylabel("Frequency")
-    axes[2].set_xlim(0, 24)
+    fig, axes = plt.subplots(3, 1, figsize=(15, 10))
+    
+    # Create binomial distribution for overlay
+    x = np.arange(0, 25)
+    binomial_pmf = binom.pmf(x, num_total, 0.5)
+    
+    for scores_data, ax, title, color in [
+        (advanced_scores, axes[0], "Advanced", 'green'),
+        (intermediate_scores, axes[1], "Intermediate", 'blue'),
+        (beginner_scores, axes[2], "Beginner", 'red')
+    ]:
+        # Compute mean and 95% CI
+        mean = np.mean(scores_data)
+        se = np.std(scores_data, ddof=1) / np.sqrt(len(scores_data))
+        ci = 1.96 * se
+        
+        # Histogram centered on tick marks
+        ax.hist(scores_data, bins=np.arange(-0.5, 25.5), edgecolor='black', color=color, density=True, alpha=0.7)
+        ax.plot(x, binomial_pmf, 'ko-', linewidth=2, markersize=6, label='Binomial(p=0.5)')
+        
+        # Plot mean with 95% CI
+        ax.errorbar(mean, ax.get_ylim()[1] * 0.95, xerr=ci, fmt='o', color='black', capsize=5, markersize=8, label=f'Mean ± 95% CI: {mean:.2f} ± {ci:.2f}')
+        
+        # Vertical line at x=12
+        ax.axvline(x=12, color='purple', linestyle='--', linewidth=2, label='x=12')
+        
+        ax.set_title(title)
+        ax.set_xlabel("Score")
+        ax.set_ylabel("Density")
+        ax.set_xlim(0, 24)
+        ax.legend()
 
     plt.tight_layout()
-    plt.show()
+    plt.savefig("plots/score_histograms.png")
+
+    # =========================
+    # Per-question success rate
+    # =========================
 
 
     
+    # ========================
+    # Confidence vs actual score
+    # TODO: line of best fit isn't accurate. Expected is 50% for 0 confidence and 100% for max confidence. Let confidence x mean an x percent chance of getting it right and 1-x percent chance of coin tossing.
+    # ========================
+    fig, ax = plt.subplots(figsize=(12, 9))
+    advanced_confidence = advanced_responses[:, -1].astype(float)
+    intermediate_confidence = intermediate_responses[:, -1].astype(float)
+    beginner_confidence = beginner_responses[:, -1].astype(float)
+    ax.scatter(advanced_confidence, advanced_scores, color='green', alpha=0.05, label='Advanced')
+    ax.scatter(intermediate_confidence, intermediate_scores, color='blue', alpha=0.05, label='Intermediate')
+    ax.scatter(beginner_confidence, beginner_scores, color='red', alpha=0.05, label='Beginner')
+
+    for confidence, scores, color in [
+        (advanced_confidence, advanced_scores, 'green'),
+        (intermediate_confidence, intermediate_scores, 'blue'),
+        (beginner_confidence, beginner_scores, 'red')
+    ]:
+        # Fit a line to the data
+        coeffs = np.polyfit(confidence, scores, 1)
+        poly = np.poly1d(coeffs)
+        x_line = np.linspace(confidence.min(), confidence.max(), 100)
+        ax.plot(x_line, poly(x_line), color=color, linewidth=2)
+    for confidence, scores, color, label in [
+        (advanced_confidence, advanced_scores, 'green', 'Advanced'),
+        (intermediate_confidence, intermediate_scores, 'blue', 'Intermediate'),
+        (beginner_confidence, beginner_scores, 'red', 'Beginner')
+    ]:
+        coeffs = np.polyfit(confidence, scores, 1)
+        poly = np.poly1d(coeffs)
+        x_line = np.linspace(confidence.min(), confidence.max(), 100)
+        ax.plot(x_line, poly(x_line), color=color, linewidth=2)
+        
+        # Calculate R-squared
+        y_pred = poly(confidence)
+        ss_res = np.sum((scores - y_pred) ** 2)
+        ss_tot = np.sum((scores - np.mean(scores)) ** 2)
+        r_squared = 1 - (ss_res / ss_tot)
+        
+        # Print slope and R-squared
+        slope = coeffs[0]
+        ax.text(0.05, 0.95 - (0.1 * (['Advanced', 'Intermediate', 'Beginner'].index(label))), 
+            f"{label}: slope={slope:.4f}, R²={r_squared:.4f}", 
+            transform=ax.transAxes, fontsize=10, verticalalignment='top')
+    ax.set_xlim(1, 10)
+    ax.set_xticks(range(1, 11))
+    ax.set_ylim(0, 24)
+    ax.set_yticks(range(0, 25))
+    ax.set_xlabel("Self-confidence")
+    ax.set_ylabel("Actual score")
+    ax.legend()
+    plt.tight_layout()
+    plt.savefig("plots/confidence_vs_score.png")
