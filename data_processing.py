@@ -35,7 +35,7 @@ AI_MODELS = [
     "peppermint kusudama"
 ]
 #partial credit for "Not Sure" responses
-NOT_SURE = 0
+NOT_SURE = 0.3
 
 def clean_text(text):
     """Remove newlines within cells and non-ASCII characters from text."""
@@ -85,9 +85,55 @@ def import_and_clean_csv(filepath):
     # Convert to numpy array
     return np.array(rows, dtype=str)
 
+def extract_comments(filepath, output_file1 = "comments1.txt", output_file2 = "comments2.txt"):
+    """
+    Extract comments from the last column of the CSV file.
+    
+    Parameters:
+    -----------
+    filepath : str
+        Path to the CSV file
+        
+    Returns:
+    --------
+    list
+        List of cleaned comments from the last column
+    """
+    comments1 = [] #"what features did you look for"
+    comments2 = [] #"any other thoughts"
+    
+    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+        reader = csv.reader(f)
+        # Skip first two rows
+        next(reader, None)
+        next(reader, None)
+        for row in reader:
+            if len(row) >= 28:  # Ensure row has enough columns
+                selected_cols = row[28:30]
+                cleaned_cols = [clean_text(cell) for cell in selected_cols]
+                if len(cleaned_cols[0]) > 4:
+                    comments1.append(cleaned_cols[0])
+                if len(cleaned_cols[1]) > 4:
+                    comments2.append(cleaned_cols[1])
+    
+
+
+    with open(output_file1, 'w', encoding='utf-8') as f1:
+        f1.write("The following were responses to the question, \"What features did you look for to help you classify what you saw?\" Responses are sorted in decreasing order of identification accuracy score.\n==========================================\n")
+        for comment in comments1:
+            f1.write(comment + '\n')
+    with open(output_file2, 'w', encoding='utf-8') as f2:
+        f2.write("The following were responses to the question, \"Any other thoughts about AI and origami?\" \n==========================================\n")
+        for comment in comments2:
+            f2.write(comment + '\n')
+    return comments1, comments2
 # Example usage
 if __name__ == "__main__":
     # Replace with your CSV file path
+
+    extract_comments("raw_data.csv")
+    
+
     csv_file = "raw_data.csv"
     responses = import_and_clean_csv(csv_file)
 

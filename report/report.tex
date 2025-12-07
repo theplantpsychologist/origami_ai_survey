@@ -1,0 +1,124 @@
+\documentclass[11pt,oneside]{article}
+
+% Page layout
+\usepackage[margin=1in]{geometry}
+
+% Encoding & fonts
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Math
+\usepackage{float}
+\usepackage{aliascnt}
+\newaliascnt{eqfloat}{equation}
+\newfloat{eqfloat}{h}{eqflts}
+\floatname{eqfloat}{Equation}
+\usepackage{amsmath,amssymb,amsthm,mathtools}
+
+% Graphics & figures
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{xcolor}
+
+% References
+\usepackage{hyperref}
+
+
+
+\title{Can you distinguish AI vs real origami?}
+\author{Brandon Wong}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\section{Introduction}
+Introduce the problem, background, and motivations for your research.
+
+\section{Methodology}
+
+\subsection{Quiz Design}
+The quiz consisted of 13 real origami models and 11 AI-generated origami models, for a total of 24 images. Real models were sourced from original designs posted by members of the Origami-Dan Discord server. Models were intentionally selected to cover a wide range of complexities and skill levels, ranging from a dog folded with graph paper to a crow with individual feathers by the renowned artist Bodo Haag. Models were chosen to be older and less well known if possible, though the complex and high-quality models inevitably tended to be well known and remembered by experienced participants. The models also represented a variety of subjects, including animals, humans, tessellations, geometric modulars, fictional characters, and objects; as well as a variety of photography styles and environments. The AI-generated models were created using Google Gemini's Nano Banana Pro, and prompted with a similar variety of complexity, subject, style, and quality of both folding and photography.
+
+Participants were asked to identify each model as either "real" or "AI-generated," with a third option "not sure" if the participant truly couldn't decide. The "not sure" option was displayed as worth 0 points on the quiz, but was given a partial score of 0.3 in the analysis. The images were presented in random order to each participant to mitigate survey fatigue and order effectsQ.
+
+\subsection{Participants}
+The quiz was distributed online to both members of the origami community and the general public for a total of around 2000 participants. At the start of the quiz, participants were asked to classify themselves into one of three categories: "no experience," "some experience," or "advanced experience" with origami--the latter being defined by the threshold of having folded Satoshi Kamiya's \textit{Ancient Dragon} or a model of similar difficulty. This model was chosen for its widespread recognition and popularity as a benchmark for an advanced familiarity with complex origami.
+
+After classifying the 24 images, participants were asked to rate their confidence in their overall ability to distinguish between real and AI-generated origami on a scale from 1 (not confident) to 10 (very confident). They were also given an optional text box to provide qualitative feedback on their experience with the quiz, including any strategies they used to make their determinations or specific challenges they faced, or any other thoughts on the subject in general. Finally, participants were shown their score and the correct classification for each image.
+
+\section{Statistical Results and Analysis}
+Over the course of 3 days, the quiz recieved approximately 2000 responses. Results are summarized in Table~\ref{table:summary}. 
+
+\begin{table}[h]
+\centering
+\caption{Summary of participation and accuracy by experience level}
+\begin{tabular}{lcc}
+\hline
+Experience Level & Participant Count & Average Accuracy (95\% CI) \\
+\hline
+No experience       & 276   & $50\% \pm 1\%$\\
+Some experience     & 1196  & $50\% \pm 1\%$\\
+Advanced experience & 489   & $50\% \pm 1\%$\\
+\hline
+Total               & 1961  & $50\% \pm 1\%$\\
+\hline
+\end{tabular} \label{table:summary}
+\end{table}
+
+\subsection {Binomial distribution modelling}
+Let each person's response to each image be modelled as a Bernoulli trial with success probability \( p \) (the probability of correctly identifying the image). For a participant answering \( n = 24 \) questions, the total number of correct answers \( X \) follows a binomial distribution \( X \sim \text{Binomial}(n, p) \). A $p$ value of $0.5$ indicates that participants are unable to identify images better than random guessing.
+
+\subsection {Participant confidence analysis}
+A plot of the participants' confidence ratings against their actual accuracy is plotted in figure []. If participants were perfectly calibrated, we would expect to see participants with 0 confidence scoring 50\% correct, while those will full confidence scoring near 100\% correct.
+
+[scatter plot of confidence vs accuracy here]. include partial credit for "not sure"
+
+[histogram of different confidence levels for each pool of experience level]
+
+\subsection{Response bias analysis}
+[analysis of whether participants were more likely to guess "real" vs "AI-generated", and how that varied by experience level]. are people more likely to overassign real or AI?
+
+\subsection{Frequent misidentifications}
+[which images were most and least frequently identified correctly, and any patterns observed in these results]
+
+\section{Qualitative survey responses}
+At the end of the survey, participants were provided two optional text boxes. The first asked, ``What features did you look for to help you classify what you saw?'' and received 1121 responses. The second asked, ``Any other thoughts about AI and origami?'' and received 635 responses.
+
+\subsection{Strategies for differentiation}
+
+\subsection{General sentiments about AI and origami}
+
+\section{Discussion}
+The numbers show that although experienced folders can still mostly distinguish real origami from AI-generated images, the general public is little better off than random guessing. Just a year or two ago, AI-generated images of origami looked more like low-poly papercraft, and many thought ``AI would never be able to generate convincing origami,'' yet here we are today. It's clear that at the rate of advancement of AI image generation technology, this gap is closing rapidly, and in a few years it may be impossible for even experienced folders to tell the difference by image alone, and possibly even video verification may also become unreliable.
+
+\subsection{Consequences for the general public online}
+
+
+
+
+\subsection{Consequences for the origami community and creators}
+It's clear that our work may soon be mistaken by for AI. We must emphasize documentation: share the folding/design process, show multiple angles, and post crease patterns. It's naive to think that AI could never falsify these as well, and it won't mean much to lay viewers, but it will buy time for your fellow community members to back you up before AI can catch up.
+
+But more importantly, we must lean further into the human connection of the origami community. One reason why the experienced folders were able to identify models more accurately was simply because they recognized models from designers they knew personally. No matter how realistic the AI images get, if you know the artist is real, then you know the model is real. So attend conventions, engage online, and build relationships with fellow artists around the world. Being mistaken for AI will not be fun, and some monetary opportunities may be lost, but origami is not ``cooked'' because our community is still strong. 
+
+
+\subsection{Distinction from AI-assisted design}
+I want to distinguish \textit{AI-generated images} of fake origami, vs \textit{AI-assisted design} of real origami models. I don't mean ``AI-generated images as inspiration.'' I mean the near future where human origami designers use AI tools to assist in the design process of real, foldable origami models. Over the years, computational origami design tools have evolved: from physical drafting, to digital crease pattern notebooks like \textit{Oripa}, to optimizers like \textit{TreeMaker} or \textit{Box Pleating Studio}. These tools use increasingly sophisticated math to automate increasingly complex tasks within the design process. The origami community generally celebrates these developments as equipping designers to focus on aesthetics rather than tedious technical tasks, such as the construction of Pythagorean stretches.
+
+Now consider how AI tools would fit into this evolution. As an example, consider a pipeline for 22.5 design where millions of synthetic crease patterns are generated to statistically model the non-linear relationship between the crease pattern and its simulated folded form. If implemented successfully, this ``AI'' tool could be used by human designers to quickly search for candidate crease patterns, which the designer would then adapt to their artistic vision. This could be classified in the broad umbrella of ``AI,'' but is it inherently unethical or harmful to the origami community? Where do we draw the line? \textit{Treemaker}'s algorithm is, at its core, a series of linear algebra computations; modern AI techniques are mathematically advanced, but they too are a series of linear algebra computations at their core. The difference is the broader context of AI's use in other aspects of society today. 
+
+I acknowledge that there are still many valid concerns about the ethics of AI in the design process, such as reliability, ethical training, and its impact on creativity. Nevertheless, AI-assisted design of real origami models is fundamentally different from AI-generated images of fake origami, and is a grayer area that should be evaluated on its own merits. 
+
+\section{Conclusion}
+
+
+
+
+\end{document}

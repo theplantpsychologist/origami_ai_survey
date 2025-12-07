@@ -1,0 +1,1123 @@
+The following were responses to the question, "What features did you look for to help you classify what you saw?" Responses are sorted in decreasing order of identification accuracy score.
+==========================================
+Weird shading and roundness in folds vor example uou cant really fold a perfect seemless ball
+Look for layers, real origami models have visible layers stuffed in them. Anything that resembles papercraft is most likely AI.
+I look at the creases, color changes and how it could've been folded
+layers background elements (only AI puts useless fancy things like pencil sharpener shavings)
+Some pictures look like AI in the background
+Unnatural color changes, asymetrical fold patterns, stock image backdrops
+Lighting, perfection, backgrounds
+Really geometric or flat shapes seem like ai, and also unnatural seeming thicknesses. In addition, some of the AI ones seemed to have impossible colour changes.
+Inconsistency in layers, blur, the ai images have a kinda artificial saturation
+I looked for features that arose inexplicably from the surface, weird color changes, bizarre seams and creases, stuff that looks like papercraft. Tbh, I struggled very much with the bull (3D) and bunny.
+Non-human shaping like rounded stuffs, weird creases
+vibes
+Unintentional wrinkles, illegal color change, possible layer management
+Layer consistency, symmetry, composition
+seemingly unnecessary creases
+Photo backgrounds, unnaturally clean 3d shapes, just having seen the models before, creases that dont make sense
+Backgrounds and illogical creases/folds
+Background. Things being too perfect.
+EL ambiente
+Uncanny looking photography, weird color change, shaping looks too realistic and 3d (not that thats impossible to do in real life, but ai has a very noticeable style sometimes when it comes to 3d complex designs), absence of precreases (or randomly placed ones that dont make sense), unsymmetrical sides on a symmetrical model
+Relied more on intuition
+Ai often has very professional lighting, not much in background, the origami is very geometric (but like only triangles and stuff) it way to curvy, layers look weird, and from folding experience you can tell if a portion just doesn't have enough seams, etc
+Imperfections, creases, tips
+I knew and remembered most of the models like the kimiro and Steve and Ponadr
+Unnatural looking flaps that come out of nowhere and wierd colorchange
+Smooth skin, unorthodox background (such as pencil shavings), creases on final thing, models Ive seen before
+Seamless faces, unorthodox background (pencil shavings), if Ive seen the model before, too
+Flat shading, overly perfectly centered pictures, weird backgrounds
+Cleanliness, background, scale of the model, feasibility of the model, layers.
+impossible shapes, background, photo composition
+Paper texture, color change, missing creases, overly geometric/papercraft style, cleanliness
+Lighting, foldability/feasibility (flaps and color changes mostly), paper pattern/texture orientation
+Messed up paper folds, inconsistencies, etc.
+weird shadows or overly detailed parts with no supporting folds/thickness
+Some like buff cat just scream AI vibes. Mostly looked for folding structures matching what they should irl. The green dragon, and the peppermint kusudama ones had pattern hallucinations. I do admittedly recognize some of the images, not sure how much that throws things off.
+Inconsistent paper patterns, improbable structures, positioning of layers, color changes, and creases
+folds too sharp with layers, weird artefacts, honestly just creases that feel weird
+paper texture/pattern changing believably with folds, coherent layer order, folding skill/shaping decisions consistent
+- If there was enough layered paper to make the details (if it was packed in a way you could tell) - if the model makes sense in reality - Lighting - Photo quality - if I know the model - Paper quality and type
+paper thicknessposition of complex features/ detailsreasonable precreased lines
+Creasing, like 22.5 creases, grid, and the overall base shape etc
+Curved folds
+AI also incorporated paper craft as well as colorchange in areas where i don't think are possible?? as well as the AI sometimes trying to match the BG with the subject gave it away. Also the sharpied on faces.
+Just too geometric and also by surroundings of the model.
+Bad color changes, mixing of really messy and really advanced folding in the same picture, and not enough layers where there should be made me think certain images were AI. Familiar folding techniques where I could clearly see how certain parts were folded made other images stand out as real. I feel like it was also easier to distinguish the ones with duo color paper.
+Quality of the picture and the lighting, any weird asymmetrical folds or color change that looks impossible, weird rounded shapes like the ball head on that one model. Also small details like the layers and if it was overly clean
+General sense of what is possible, then if the edges don't have mistakes in them and the general setup, background.
+Specific details, pre-creased lines
+AI origami uses geometric planes and often looks too clean. Angles that don't seem possible. Colour changes that don't look right like seeming to come from the middle of the paper.
+Asymmetry in figures that should be symmetric, generic names and models like armored brute usually gave AI vibes. Now, models that may need use of abstraction to interpret the shapes, usually mean its real origami, like the ship in a bottle
+the average AI signs like inconsistencies, but also issues in textures and shapes which paper cant replicate
+Symmetry and consistency, unrealistic stylistic choices, unrealisitc level execution
+Cheap paper tearing at vertices, color changes in impossible spots. Differences In anatomy of same model's features. General shading and composition.
+Inconsistencies in folded edges and paper surfaces (the surfaces look too polished or torn)
+Background, weird features and a certain messiness on real models
+pre-creases, wrinkles/cleanliness/sharpness, seams, shaping inconsistencies, "floating" parts (the two blue&gold humanoids both have eyes that sorta pop out, but the latter one has seams under each eye, and the eyes themselves have wrinkles, suggesting they've been stuffed with cotton balls or something)
+Mainly precreases for example on the tesellations. Some were very easy. Some I' m suee I guessed incorrectly
+Symmetry and features like sinks. Also round features.
+Mainly the background, or if there is any odd
+Paper thickness accumulation and background
+Lighting
+I tried look for small imperfections like crumpled pieces or worn out parts of the paper.
+Unusual structures not found in most origami and considering the odd perfection that does not make sense in made of these models, I find it impressive how hard this was in mainly afraid I posed something as AI because the photo had really good lighting and quality and didnt have much else to help me decide so i unfairly assumed AI which in a normal circumstance i may have not and just assumed it was real.
+Lighting
+The super clean/crisp photos with origamis that has lots of colour changes felt more likely to be AI. Also I looked how much detail is used for each part of the model and folding logic, AI is more likely to have varying levels of detail across a model and not show as many layers.
+Smoothness
+Not so much the origami itself but background lighting clues
+Parts that are too circular, flaps arranged in a strange way
+Too perfect or features that didn't make origami sense.
+Impossible seeming folds
+Things that look too perfect, perfect lighting, things standing in ways that would be tough to replicate. Impossible folds, inconsistencies.
+The background, how the layers are arranged
+Shapes/lines that don't make sense with my undertanding of origami or the rest of the model (perfectly round, almost inflated head, discontinuous edges, strange bumps/texture on othewise uncreased surfaces. Strange backgrounds presenting a 'theme' but with objects that doesn't make sense (pencil shavings and crumpled paper in an origami showcase?). Strange paper textures. Inconsistent sizes (different sized animals, some seemed folded with impossiblly thin paper)
+Background Features coming out of nowhere (e.g., eye on top of another layer with no flap for it) Inconsistent/impossible thickness/layer buildup Neat geometric volumes that would be incredibly difficult to achieve naturally
+Consistency in the geometry, colors, and shading.
+Depending on the image, some models have the AI look to them. There were a couple like Goku that Im pretty sure Ive seen before. Sometimes I could look at the layers and design and whether it makes sense based on my understanding of how origami models work. There's kind of a cleanness to AI models that a lot of real folds don't have.
+The hands, if any. Whether the folds are possible.
+I looked for creases lines that made sense and for how perfect the image was.
+shaping techniques, color changes, symetry, flap logic, etc
+Sometimes it feels like there's a mismatch in the complexity between different parts. Like at least once, I see a super basic, uncreased flat body and then for some reason, there's extra detail in the limbs or accessories or whatever. To get certain levels of detail in a certain position, you have to introduce complexity into your paper right? Conceivably, you could hide a bunch of your creases behind a big flat, uncreased facade, but it's unlikely. Sometimes, it just feels physically impossible. Other times, I just can't imagine a creator making a certain choice. Like in one of the geometric/modular origami, there's a bunch of symmetry in the whole thing, and on one of the faces. But on the other faces, the patterns are all disorganized. Finally, some things really just hit the AI pattern-recognition squarely. And even if they weren't AI, I still categorize their visual style as social media slop. Something about the lighting, hands, framing, foliage, the general mood and composition, is hyper-real (if that's a good way to get it across). Sometimes the 3D forms are way too well-defined and I question whether or not that's possible because a model of that detail and fidelity doesn't seem to fit any style of origami I've seen even in passing. Like if I saw that picture on a papercraft forum I'd believe it, but in an origami forum, I'd say either the poster is lost or it's AI. Sometimes the model in general looks like a style I've seen, but the details on the model don't seem possible even in that style. Like I'm really questioning the Armored Brute. The eye details? The circles on the shoulder guards? How? They look pasted on. The Goku one I'd be distraught if I was wrong. I 100% can imagine someone posting about that proudly, and everyone in the comments praising them. I guess the sense of passion, humor, and internet culture behind the piece are just too easy to imagine for me to think it's AI? It's also styled very recognizably in the same way that I've always seen high-detail humanoid figures folded. I question about how many colors it has, especially with the wristbands, but maybe the creator just made good use of multiple sides and squares of paper?
+lighting, unnatural color changes and shapes.
+Layers, reasonable geometry, photo composition, a couple of them I'd already seen in the wild (goku)
+the small imperfections made me classify the models as real. If it was too perfect, then id go with AI. But I recognized most of the real models from other sources so that helped.
+um weird paper stuctures formed unintentionally and as for ai really clean papercraft looking things
+How realistic the folds and shaping are. Backgrounds of the image.
+Box pleat
+To many creases that are not necessary and weird texture
+Lighting, too perfect, impossible folds.
+Lighting & shadow direction, consistency in photography styles, direction of folding lines
+scene+seams
+I do not have experience in origami, so I was mainly looking at the backgrounds and image noise.
+paper texture, photo ilumination, layers of paper folded,
+Too smooth or perfect looking paper texture seemed more like AI to me
+Weird features that dont make sense (disproportionately sized parts, uneven lines, paper is too smooth)
+background details (backdrops, tools that made sense), use of color change techniques, suggestions of paper edges, suggestions of different layer thicknesses
+details, layers, surfaces, background sometimes
+Impossible looking structures
+I have some experience with origami, so I was looking at details that I know they cannot be achieved in reality. For example, AI often doesn't consider the thickness of the paper, or some times there are impossible color changes or weird sinks
+El nmero de pliegues pliegues
+Unnatural shines and impossible folds
+I look for if a model looks "foldable" or realistic
+I thought AI was more smoother, wouldnt show imperfections, tried to render things more flat
+ninguna
+Background, presence of grid, imperfections
+Lighting, shape, backgrounds
+Funky shadows, asymmetry where it should be symmetrical, more colors, convex faces without creases.
+AI sucks
+Slight imperfections in the folding as a sign of being human. Weird shaping differences between sides for no reason or layer counts being wrong as a sign of AI.
+how the model was positioned, how the creases look (if it were too creasy-ish or not), and also how it makes the face (because ai origami tend to forget or disregard how to make an origami face)
+Background. Perfectness, presence of crease lines printed designs on paper.
+If they are in a blank void or if there is any evidence of origami made in the background
+a lot of things. for starters, i would check the backgrounds. some of them were dead give aways because the background wasn't realistic, others had backgrounds that blurred weirdly, which I know ai likes to do sometimes. next I would look for folds that didn't realistically make sense, like unnecessary creases and small details in places where there couldn't possibly be small details, like color changes and small flaps in the middle of a smooth surface. some of them were obvious because they were more like 3D paper crafts instead of actual folding, and i know that ai sometimes confuses any paper art with origami. the paper dog in what looked to be a classroom was the trickiest one for me. the reason I said it was ai was because the grid in the middle was tilted. both the head and legs were reverse folded off of it at a 90 angle, so it should make sense for the middle grid to remain vertical. i tried to think how it could realistically get tilted like that but nothing made sense, plus the background was incredibly unnecessarily blurry. if that one wasn't ai, then goddamn it was just a super weird photo. some of the models seemed like they were meant to trick us, but luckily I've seen a few of them before and knew they were real, like the Goku one.
+Patterns in the paper, plausible unfoldability, context of the photograph, wrinkles
+Lines/folds that are there but serve no obvious purpose, is what made me think for example Bull (3D) was AI
+Too clean was ai. Places where limitations of the form were apparent were real
+Lighting, small details and imperfections
+Tried to see if the layers of paper made sense, especially for color changes
+Clarity, background, and the texture of the paper
+Sensible (seeming) folds/flap designs
+Background / how round looking(?) the shaping looked (it kinda felt unreal to me when the model looked too un-angled)
+Backgrounds, consistency in symmetrical folding, weird texturing
+Wear in the paper, precreasing lines, impossible folds
+lighting
+Colour change/creases that seem unplausible
+Just the ai vibe yk
+Primarily the background details of the image. Other than that some images like the cat and the bulbasaur were very unrealistically 3d and looked like papercraft rather than origami.
+Realistic folds and traditional style pleats and after-fold appearances
+Improbable pleats? I looked for areas where maybe three raw edges met at an improbable angle or something to that effect but as I went on I grew less confident in my ability to distinguish. The ones with a distinctive background or setting that the AI model placed them in felt easier to differentiate. I also looked at depth of field, which tends to be hyper-focused on the key object in the images from diffusion models. I dont know if that was consistently the case either, though!
+Saturation of the image, unnatural segmentation.
+Shading, if its a model Ive seen before, ai artifacts
+AI images still have a few inconsistencies when you look for details. They also tend to look too air brushed or have blurry backgrounds. Folds and creases that look impossible are also a giveaway. A human-made origami might have mistakes, but they look reasonable. If the angle is different, but there's a consistent symmetry (legs both look like they were folded the same way), I tend to lean human.
+Shadows
+Models I had seen by creators I recognized from before were definitely real, however there were some uncanny ones! When in doubt, I unfortunately chose to guess that the AI was that powerful and could produce images similar to existing models and prominent folders' photography styles. Some were pretty easy to tell were AI (Ivysaur) but that Charizard is odd? It's the combined shaping choices and photography. It's like Tadashi Mori's Charizard but not sure about some parts. Models with random tears were uncanny when viewed from the lens of being possibly AI. The green dragon felt very familiar, like KNL or Neale dragon of some sort. But the blurred paper and scenario of the image kind of make me doubt the dragon. Even though I almost feel I've seen it before. Also that there were toes on only the front legs. The graph paper dog feels real based on some folds...but I just don't know about some of the representational choices, like what breed of dog it's supposed to be. That open 3d leg in the front is strange. There's the ship in the bottle like the full rigged ship that I was iffy on. It feels like something is possibly hidden in the photo. It's a little hard to see the images on the google form, and I was uncertain about some folds in the bottle. But it feels possibly real. The 3d bull has some really close folds, but it also has a 3d spot on the middle of the body that sort of makes me doubt it. It's really clean and sophisticated! If it was an older design I feel I would have remembered seeing it. Maybe I would not recognize if it's fairly recent, but it almost feels like I should have seen it?...Then there was the color change whale with the spout. The photo reminds me of Plant's photography. It feels reasonable in terms of color change and some folds...but I just don't know. There was a knight with color change that looked very clean, but the lighting and some other color change parts feel off. I'm mixed on that cutting mat in the photo. Even though it does seem to have some realistic structures, there was another one that looked AI with similar parts. Also I don't know the most about the kusudama world, so I again went based on doubt. Hopefully I'm wrong. I sincerely hope that more of the uncanny ones I flagged as AI are real! It's scary if they are AI!
+Parts looking too "seperated", weird lighting, too flawless.
+One giveaway were the hands. The second thing I noticed were the odd environments (such as the first bunny against the natural background). The real ones had impression marks, a tear or hole, and again, the hands holding them. Shadows were something else I looked for.
+if the model was physically impossible to make (i assumed that models could be painted or kirigami so ignored more than 2 colours shown)
+The flap connection. Some flap just seems to come out of nowhere.
+Is there too much or none creases on the paper, things to support the origami like string and wire
+Mostly lighting, backgrounds and awkward looking folds
+Surroundings, plausible folds/designs
+Lighting, crinkles on the paper, overly smooth paper
+Forms and background
+Number of paper layers; intermediate (previous) folds; accuracy - only in geometric models people strive for accuracy; type of paper; "planeness," "smoothness" of model sides; hands; background
+perfections
+non-convex faces with no seams, dubious looking color changes
+Hands and remnants of precreasing
+Shadows, irregularities in the folding, proportions and details in the design
+Creases that look like human error. blurred background with a clear close up focal point tend to be ai. Shadows looking accurate. General "something's not quite right" feeling
+Life-like
+It was harder than I thought! I looked for seams around colour change areas, evidence of thickness around detailed areas and I even looked at the background for some tricky cases (not convinced I got them all right). Oh and I wanted to be sure the number of visible corners looked reasonable. AI often looks too smooth. Also its lowkey cheating but I recognised some of those models
+Color change
+Weird lighting, lots of polygons without clear actual folds
+I looked at flap placementsif they made sensehow the light and shadow interacts with the model, the background and overall composition of the image, and if the design style is consistent and makes sense with the model.
+Layering that looks off.
+Seamless curves, layering anomalies
+background
+unnatural curves/ shine, overdone sharp edges
+Human elements, background, lighting, creases, shadow,
+The background details and lighting. Lighting on generative ai is very dark and bright. Also texture on paper sometimes seems inconsistent. Also it has too real features like the eyes. Also I look for symmetry and consistency of shapes, like if the face is the same shape on either sides.
+Like when some edges are at a point there is a slight discoloration due to the friction. Additionally some models where extremely recognizable like Bodo Haags crow and Jo Nakashimas cactus
+Clean photo, anormal folds
+crease marks, areas in which the model may have been fiddled with/shaped, and patterns/texture uniformity
+Backgrounds, one of them was floating, I don't think the ball of paper in the background of the first can exist, also if any of the paper melded into itself (like one of the whales)
+lighting
+Real origami techniques like sinks and crimps; proportions of the model; lighting
+Smooth surfaces, funny contrasted edges, too perfect looking
+I looked for folds that I've never seen before
+I try to count how many corners of paper I see, how smooth the paper or a hand that's holding it is, etc.
+Smoothness, shadows, background textures, look of the hands (where applicable)
+Folds that dont go anywhere, flaps that appear put of nowhere, the look of carboard figures on low quality ai photos
+The blurry background and focal depth overall. If there was a hand, I focused on how real that looked. In case of patterns, I tried to check if they make sense logically. Also the level of smoothness in the creasing - I think paper that's too smooth on the planes looks fake, origami naturally seems to have visible creasing to me, even on the flat parts.
+High contrast for AI, composition vibes
+Scoring lines, back ground
+I spent so much time writing the above text that I forgot. Sorry!
+Lighting, presence or absence of fold lines or flap edges. General "vibe."
+Background, how "perfect" it was
+overly perfect shaping, unusual/complex structures on otherwise simple models, limbs that don't make sense for the base the model uses
+background, if it looked creased multiple ways
+"to clean" vibe, unrealistic fold patterns
+Impossible folds and structures, AI-like lighting
+Colors and perfection (some looked toooo perfect)
+Shadow, how the layers stacked, consistency in detail
+The model
+additional creases
+Folds and lighting/shadows around them, along with consistency of folds if they were repeated.
+Vibes \_()_/ gut reaction
+Realism and possibility
+Discontinuities or weird smoothnesses, stands and areas with bunched layers.
+Foldability
+Backgrounds, hands, some folds or paper patterns that looked too smooth
+realistic structures of folding
+Classic AI image signs (eg weird hands, blurry background) realism of folds (eg whether large ball shape was realistic, if there were certain flaps that seemed impossible)
+Weird colour changes in places they shouldnt have been seemed like red flags. Also, whenever there was a completely flat surface with a non-straight edge unless I mis-saw something
+Lighting details or lack of detail in background
+What seems too complex to be doable with a sheet of paper (how the color variety and placement is used to add details or over used to to create realism). Are there creases that are missing?
+Edges,colour changed
+Weird creases and abnormalities between two symmetrical areas
+background, fingers, whether ive seen the model before or not
+Imperfections, shadows, strange lighting
+Intersecting edges, folded edges appearing from the middle of the paper
+hands
+background, shadows of the folds, not too many details as a real origami piece would have
+background rendering, smoothness of creases, detail
+Numbers of visible layers, paper texture, unrealistic shapes, inconsistency in symmetry, objects in background like weird looking hands etc.
+Sensible folds, weird background elements/lighting, when it looks more like something that already exists but like origamified assumed it was AI
+The surrounding and lighting
+Crease lines, folds that don't seem possible
+i looked for models that looked too perfect like the buff cat, and i also recognised some like bodos crow and kimiros goku
+Fingers that look too smooth, and lack of paper creases- just an overall too smooth look
+Texture, background, resolution of picture and imperfections
+smooth and blurred "facetuned" looking paper and edges, lack of creases and crumples in the flatter areas, mattified or highly glossy areas seemingly lacking consistent shadows
+Background and too clean
+Real paper textures, some inaccuracy which is real for complicated models
+if the background looked kinda weird, or the folds felt off
+Texture of the hand
+Color changes, details/shaping, signs of wear on the paper
+The background and sometimes paper layers being too flat
+Uhhhh idk
+If you cant tell where different parts of the paper come from, its probably ai.
+The background, paper texture, sharpness of folds
+If the hands lookt real
+Unrealistic appearance, background/scene, strange textures
+Background, shadows and textures
+Fold lines and creases
+lack of gridding, no visible folds like sinks
+colour and lights auxiliary creases amount of detail "spherical" elements
+I think somitimes AI has way to clean folds or like accentuated folds that are like precreases so they just look off. And also with AI the background of the picture just looks fake somtimes. And some off the pictures like buff cat for example look way more like papercraft, you print Out a template and glue the pieces togehyer and i wouldn't classify that as origami so i say AI
+Error in the model and if it looks like it could stand
+Big blocks and folds that dont seem possible
+More 3desque shaped with highlighted geometric features.
+Inconsistent folds, bizarre backgrounds for photos and extremely perfect folds
+Mostly gut feeling, and experience with seeing AI pictures that were too obviously AI. But in this series I didnt see many of these, so hard choices!
+By practicing origami, you can, to a greater extent, distinguish the feasible from the fictitious
+For some of the ones I listed as AI, it was mainly the background or some weird looking texture that made me believe that. All of these look possible to make with origami in my opinion.
+Background, surface of them paper
+hands and imperfections
+I looked for weathering in the paper or signs of use. (Wrinkles, curves, wear and tear)
+for real- folds and texture of the paper AI - if it looked too smooth
+Crisp AI look, inconsistent patterns on patterned paper (kusudamas)
+If the texture of the paper was relatively smooth, I was more likely to mark it as ai.
+Coherence of the folds and shapes. Clearness of the pictures
+Honestly initial vibe and composition of photo were most useful. Over scrutinizing did not really help.
+just my gut feeling
+Background (especially weird hands), lack of pleating, too smooth or rounded
+In the simpler models I looked for how I would go about making it myself. Did some of the angles line up? But, with the models that had been wet folded or had rounder edges I struggled much more. Models with multiple colours were also much harder
+The grid, the bad folds, the angles, whether its a known model, the shading, and whether the model can even be made from a single sheet of paper or not. Usually Im able to tell if something is real origami or not, but now that AI is getting more and more advanced, its becoming harder and harder to know.
+The background, the "photo" look, the folds
+Lighting, lines in paper. Whether it looks physically possible
+Hands, feels, thick layering near the legs/arms
+If the figure made sense for someone to fold, aspects of complexity that made sense based on origami I've seen, too much of a "sheen" to the model or background
+Asymmetry in less obvious folds.
+Hands, where certain folds connected and for seams
+Background, uniformity
+How the piece was held, e.g. it is more believable with a wireframe or rope
+Small creases/mark folds in paper, plausibility of design based on models I know, lighting discrepancies
+If the paper had a grid/stripe pattern, and there was a non 90deg edge fold with the stripes still matching(going in the same direction), I thought it might be ai.
+strange blur around the edges and folds that dont quite match
+Lack of symmetry, physically impossible folds, lack of being able to trace where a fold could come from, and then if hands are in the picture, are they a little too smooth and weird looking?
+Colors, some folds, size
+Background. Unrealistic folds. Blurry photos.
+Smoothness, weird folds and weird filters
+Complexity and folds
+El brillo
+Some photographic errors or quirks. Sometimes if the folds didn't make sense.
+folds that I wouldnt know how to do
+Lighting, extra crease, clean/rough fold
+shadows, minor inconsistencies, smoothness of paper
+Sometimes quality of image. Sometimes like if it looks like the same figure just applied with origami filter or sth?
+Pattern folds, small imperfections, fold definition and pattern paper continuation.
+A smooth surface, some degree of incoherent layers/folds, and overt cleanliness in the creases.
+Uneven or unsymmetrical features, folds inconsistent
+models I know, crease lines, 3d forms in general, lightning, knowing what's possible in origami
+Simple vs complex, mistakes, fold lines
+Round spots, angles without creases, color switches, and how the ends of flaps were folded (some looked impossible)
+Mostly using common sense (I would know when something is too uncommon or impossible), the focus point, texture, background, the "too perfect" feeling, wether is it normal and easy to set up that camera angle? I'll examine further when a camera angle is too clich, like, professional advertisement level's composition. Or when the image's focus point feel weird and not spreaded throughout the pic but weirdly concentrated.
+Creases, texture, and the plausibility of there being a flap where the image showed them
+Lack of tiny amounts of human error, weird shading
+Wonky edges
+impossible features, exaggerated smoothness
+Shaping smoothless, possibility of folds, human error, realism of colour changes
+extra creases (or lack thereof) and if they made sense with the shaping, the "ai haze"
+Weird angles and lighting
+its hard to describe. a dead giveaway was tiny details that should be impossible, like eyes
+other parts of the image like unnaturally smooth lighting, folds that i think don't make sense (like if i see a corner of the paper but also a lot of creases right next to it)
+Thought about if the folds came together in a way that made sense. Was hard with some of the more complex looking models though.
+Realistic paper texture, logical traces of crease, symmetry in parts like legs, background texture
+Lighting, construction creases, shaping, imperfections, paper colouring
+Oddities in appendages and accessories
+Things that looked too perfect, features that I wasn't sure were possible in origami, I thought were AI. Many pictures I wasn't sure if I was seeing the AI polish or just carefully manicured photography and lighting. If I saw little imperfections in the folding, I was more likely to think it was real. I was also more suspect of complex models than simple models. I have almost no experience seeing AI origami images so I did not know anything in particular to look for ahead of time.
+Check relative thickness of the paper with the features. Some images are models that I have seen in the past. Check if there are shadows with the corresponding flaps.
+Background, should it be able to stand based on gravity
+Symmetry, folds that make sense, features that would not make sense to be included, perfectness, blended lines and creases
+Vibes (I tried to look for how crinkled the were, but had very little success)
+shadows, wrinkles, AI has an artificial smooth look. but this was harder than i expected.
+distortions or uncanniness
+Background and the hands
+stuff that would be inconvenient/
+Estimating number of flaps required, shadows that look ai rendered, sculpting
+I looked for pleating and natural warping of the paper, but totally not sure whether or not I did well or not
+shadows, whether folds make sense
+Vibes
+evidence of crease pattern, thickness and layers in appendages
+whether it felt feasible to have the number of points/ends that the model was using, the focus in the photo, whether it would be able to actually stand up with real life physics.
+Pure instinctual guesswork
+Obvious petal folds, sinks, and reverse folds
+It ressemble more to papercraft, the origami aspect and geometry is exagerated
+Crease lines. If fingers looked weird. If bg has imperfections (to indicate some realness to it). If a human might have tucked in that edge more or not
+Color swap, points...
+Clarity of the picture, technical feasibility
+Personally thought that ai generated models look like cut paper arranged like in a mosaic than folded paper. The precreases also look very sharp for what I think are the ai models
+Smoothness of paper
+Too smooth of paper seemed AI
+Papier strukture, Golds I recognize
+Shadows, detail, background
+If there was a lack of folds where I would expect there to be some, or on detailed sculptures if there small features that didn't have any sign of folds connecting them
+Patterns and complexity
+wrinkles
+background
+Background and details in paper
+edges continuing, texture
+The geometry of the paper and the background.
+Pattern continuity, shadow continuity, papercraft, wear and tear in appropriate places,
+Paper texture, crease lines, shaping, background(sometimes)
+Too clean/shiny plasticky look
+Ilumination and the perfect shapping
+I honestly dont know; its hard to keep track of real paper and real folds as someone completely inexperienced with origami.
+circles
+Details
+Non symmetrical folds. Awkward backgrounds. Photo lacking imperfections, too high quality
+How regular are the folds, texture of paper, idea behind the models
+Backgroundsimple backgrounds made me really suspicious, hands too shiny=AI
+I just figured which models are looking like they can be made by humans, also I know kimiro's models which look like ai but are definitely real
+Overly spherical parts, unnatural shadows/shading, lack of symetry
+Too perfect and lack of precreases that can be seen.
+Impossible feature or Curve.
+Something that looked too perfect or if the background looked artificial.
+The lighting, smoothness of the picture, and some cohesion in the folds.
+Weird angles in the paper that you can't normally achieve without making a visible seam
+like the paper texture, the hands, the background
+Unnatural creases & impossible folds recognizing models,
+backaround
+Some of the folds were so close to one another, yet so crisp, that I think it'd be physically impossible to achieve. I also looked for drawn-on features or unrealistic patterns in the paper. Some of the features I focused on were more environmental (e.g., looking at the background or hands). I tried to focus on the origami itself, but it's hard to "unsee" other details. In order to avoid this potential confounding variable, I think you should consider cropping the origami so that's the only thing being shown.
+Hands, folds
+I tried looking for folds that didn't make sense, or too smooth of paper; though this could maybe be excused by different paper types... I was not confident.
+Goofy or unrealistic backgrounds/unclear art direction (like random color patterns idk this is hard)
+Backgrounds being unrealistic or too setup for the moment, even for an instagram picture
+Gut instinct, weird edges patterns and lighting
+quality of the image, small details
+Smoothness of material, how much sense it makes as a model, how much sense the material makes to use, lighting
+Folds being too perfect, paper being too smooth, weird lighting or shadows, details on hands (when they're in the shot)
+Pre reading marks, placement of paper - things like, if there is a point split, is there enough paper (or thickness) around it to enable the point to be split
+The hand made marks?
+I'm looking for unnatural folds and patterns
+Looked at the background in the photos, I really couldn't tell otherwise.
+Paper grain
+backgrounds, unrealistic details
+Swivels with impossible angles
+Consistent, symmetric folding, guide creases
+"Smoothness", overly perfect folds and lighting
+Lighting
+Paper thats too smooth, hovering image, if it looks a bit too perfect
+Shadows, symmetry, color changes, lightning
+Overall ai ness
+honestly backgrounds that are weird or too perfect can be tells for AI. I think I also looked for shadows. Also uncreased paper shape that is possible with square paper. and points converged by multiple folds (can't come to a true point sometimes due to thickness created by folds, but AI might not always consider that idk).
+The background and hands
+Nada simplemente mejorar la calidad de la imagen
+Random background objects,
+The folds and irregularities when folding.
+Patterns around the origami, potential shaping, if it looks 3d despite being a flat model
+Odd lighting, shapes not commonly found in models, how the creases look, if the paper pattern is consistent
+I looked at whether the fold patterns were consistent. Some of the obvious ones had weird folds that didnt make sense, or looked too simple for the complexity of the design.
+Impossible colour changes, smooth lighting, too clean folds
+Shadows and textures
+The background, and surfaces that seemed curved and impossibly smooth
+Too many appendages without increasing layers, color changes that are too detailed/sophisticated, features that dont make sense from a design perspective
+Differences in models when there is multiples, pattern I don't see often like on tails. Texture
+The model looked unreal.
+Defects in folding
+Weird hands in the photo, symmetrical models with asymmetrical folds, impossible folds, bizarre design choices...
+Looking to see if the folds made sense (if i could unfold them in my head logically)
+Naturaleza del papel
+Smoothness of the origami and shadows.
+Patterns on paper are consistent around folds on real models. AI does not understand the layers and paper consumed in the separation of flaps and other features, real models have bulk from layers and not always from surfaces. Imperfections in edges, corners, and extra creases also lend to more real looking images. Diffusion based AI image models also struggle with dynamic lights and shadows, but that is not specific to origami.
+lighting, folds that don't make sense.
+Lighting and curves
+lighting and how paper could fold.
+Soomth or wrinkled lines, the background, the hands
+Just feel
+Smoothness, background blurs, yellow tint, other objects
+- lighting - background detail (lots of moss and flowers seems very hard to photograph)
+Correct crease lines present
+Texture and logic in the folding (although advanced origami looks like witchcraft at the best of times)
+Lighting (the lighting on the blue knight seems seperate to the orange lamp at the back) symmetry (I.e. the feet of the buff cat seem to be folded differently), environmental clues (the Defect's stand seemed like it didn't sit on the ground properly, nor could I see where it was connected to)
+Blurry unrealistic background, wires for suspended models, paper corners in simple models
+if the paper folds looked realistic ??? idk if that worked though because i labelled most as not ai
+Is there paper coming out of somewhere that should have no free paper? In the armored brute, the head was almost perfectly circular and the eyes looked like they came out of the same layer as the rest, which was impossible without ripping it. For the kusudamas and tessellations, I looked for symmetry of the pattern/assembly. The lighting on the first tessellation looked too fake and unreal, and the peppermint kusudama didn't have a consistent design on all faces.
+weird ai blur/smoothness, weird non discript void backgrounds, asymmetry
+Impossible folds, inconsistent/asymmetrical folds, gaps or creases that just felt wrong, models that looked "too perfect", models that looked like they weren't made of actual paper, lighting/camera focus that felt AI-ish and/or improper.
+Smooth paper made me think it wasn't changed by hands but it was hard to tell
+Paper texture
+i tried looking at the folds and how the paper interacts with the material around it. in some of them it was also worth noting how the surroundings looked, i was actively trying to figure out if certain folds would be viable in real life.
+Paper texture, how perfect it is or not (ai will make patterns exactly perfect every time), complexity of the model, and physics of it.
+Did the folds seem logical, did any patterns not line up with fold lines, did feet/limbs look too smooth or detailed
+Small details that looked too intricate to be folded by paper (like really thin fingers or horns), weirdly round shapes without much creasing, paper that didnt look like origami paper (not traditionally smooth?) also some backgrounds looked more realistic than others. could be wrong though haha
+Consistency of features along with if it looks designable. Something else was how angular some designs were.
+Looked for images that were too glossy or folds that seemed too overly complicated
+If theres folding lines that arent necessary for the design, if it feels organic and paper like, if it feels familiar as in the origami vibe
+Concise folds and realistic shapes
+This is an artificial test, I found myself looking far More carefully than I would at images on social media so Im looking at: the overall structure - would it be possible to fold this model, has an AI confused low poly with origami? The imperfections - are they things a human would do naturally when they are handling paper and folding it, are things like paper creep revealing the colour natural? The appearance of the paper as a material and whether it looks real; the overall skill level needed to create the model and whether Simeon with that level of skill is likely to make the mistakes we see in the image- AI is often careless on an otherwise immaculate model;
+Folds
+reasonable/unreasonable color change, leftover creases on final model, slight shaping imperfections, lighting, box-pleat features, (in general, origami models are made from 1 paper)
+Overly clean, if small background details made sense
+The folds
+Points
+see if folds are logically possible
+- complexity of hands (if featured) - shadows on the model - clarity of detail versus approximate size of the unfolded paper, like are we seemingly getting crisp ancient dragon-level detail on a 30cm square? - surrounding image. is it a photorealistic but possibly staged background? does the desk look used, or like dollhouse furniture? - does the model appear to be heavily inspired by Kamiya or Komatsu, but I don't recognize it as one of their published works?
+The surrounding. The hands.
+Lighting consistencies, if it looks connected (idk how to word it)
+Hands that look fake, origami with paper patterns that were unlikely. Shadows that looked wrong
+Smooth lines, overall "idealness" for AI. Minor defects, lack of strict symmetry and precision for real models.
+Mainly the way the photo was taken, e.g. with an AI looking hand, smoothing of the image and the angle of the photo.
+Paper texture, impossibility of certain folds
+Folds that look unnatural, weird geometry, color symmetry, my experience with paper.
+Unfolded fold lines
+lighting/somethings were floating or not follow gravity
+Background. Too perfect folds.
+Smoothness of the creases and paper
+The little defects you get when folding
+Looked at other things in the image like hands, paper texture, and folds that didnt make sense
+Logical folds, textures, tiny details that might be impossible to fold like extremely detailed hands and eyes
+Complexity, round / 3D shapes, believable box pleating
+I know but I don't know the words in English to explain. The background, and the "logic" of the folds and the "pixels" in a small area of the same colour.
+Shadows, folds that would form the shape.
+Background, seeing if the geometry made sense. Still really hard, don't think I did well
+weird patterns or folds
+Visible fold interaction, folds appear to "go somewhere" or lead to a reasonable-looking crease
+models that lack a realistic paper texture or are unrealistically smooth, paper layering that doesnt make sense, models that look more like clay figures than origami figures, backgrounds with strange details or blurry surroundings
+Background, symmetry, how real the hand looks, shadows
+Round edges
+Shading, how symmetrical/exact each model was
+Level of complexity and how the background contrasted with the model
+Mainly odd lighting or textures.
+The wrinkles on the paper, especially for a complex origami. I feel like if the paper it self looks pristine, it might be AI
+Too perfect shapes or round borders look like AI to me
+Assuming none of these were painted, colours in weird or illogical places, though some were monotone. Also things that looked too spherical, I tried to just use intuition for the most part though
+The white background, the way the origami was positioned, the difficulty of the fold
+small creases = real, too smooth = AI
+If the folds looked logical, how "perfect" it looked, the photo quality/color scheme, etc.
+I kinda cheated by looking at fingers
+Excessive shine, shadows and folds that dont make sense, smoothness of the hands, background obviously ai
+inconsistencies, if its standing makes sense, the background
+Los pliegues qu fueran reales
+Trash corner
+Shadow, whether the folds seemed geometrically possible
+I looked for small imperfections like crinked paper that would from when folding and smoothness of the pictures because paper can't really bend smoothly when folded.
+Familiar models, realistic folds
+paper stress marks(lighter colored points&edges), bulk from many folds and origami thats too complicated And smooth at the same time. I honestly checked the backgrounds too.
+fold lines, background, realism
+AI sheen, unrealistic fold geometry
+Consistency in paper texture and patterns. Soft bends and wrinkles at creases in the paper made it seem more real. The ones that felt overly 2 dimensional seemed suspicious. Good oragami can create very detailed 3d forms
+Hyper realism, abnormally smooth shapes, folding patterns that dont make sense, places that dont have enough thickness for how much paper there is.
+Detail too fine like fingers, fold patterns that seemes too clean, too much detail in models
+For imperfections (ex. paper being more rough on some edges) which real pictures/objects usually have
+Defects, creases, and mostly the background/lighting/focus. Smartphone camera ones look more obviously real than something with depth of field
+AI tends to have a central focus in a photo, but leave the background blurred out for some reason. Some images also had strange shadows, inconsistent textures that seem uncharacteristic of the materials, or oddly metallic sheens.
+There wasnt as much depth or signs of creases in the images I thought were AI, and they where too clear and smooth.
+Fold types
+Folds that dont make sense, ai-like backgrounds or Backdrops.
+AI glowy lighting, and suspicious creasing, but mostly gut feeling
+Paper is not perfect, so I was looking for the subtle variation in the paper. Also, there is paper fatigue at the creases, which is easy to see on Kami and other similar papers. The presence of that fatiguing lent it realism. If the shaping was too perfectly spherical, I was also skeptical.
+Background, if it looked too smooth then I suspected AI
+Paper crinkle, smooth ai background, intricacy of piece
+Smoothness of folds, obvious mistakes
+Realistic folds and unrealistic smoothness in some areas
+vibes
+Background/quality of hand, believable folds etc.
+Impossible folds
+If creases were perfect or had more realistic dodgy/not crisp corners, especially for the tinier folds
+Multiple colors. Overly detailed parts. I must say, even if some of these are AI, they are way more realistic than usual AI slop.
+Context, plausibility of structure with one sheet, hands (if any), colorimetry
+Overly smooth or rounded shapes, items with more than two colors (tho ig it could be several sheets) unfamiliar fold techniques, things that looked like they werent squares initially
+complexity of the figure, light, and some edges
+Shadows, background, paper texture (like shine), weird creases
+I looked for details in the background of each image that made/did not make sense, such as tools or random balls of paper scraps (?). I also looked for complicated structures that were almost "too" clean, like the fine details on the cat's fist without any nearby creases. I also paid attention to whether or not the origami's appeared to be balanced, and I assumed that those with supports in the background that made sense were real
+Some shapes look really round and sometimes some folds look like theyre missing
+Patterns on paper, hands, texture of paper
+Torn paper edges, incomplete/suddenly ending folds and creases, backgrounds
+Traces of creases in the paper. If it is too "clean" seems suspicious
+i recognized a couple of features from other models ive folded, such as how the eye of one of the whales looks how Jo Nakashima makes eyes. i also tried to imagine how i might fold a particular part. however, if a model was a higher tier of complexity than ive folded, i felt much less confident and could only base it on pictures ive seen.
+Weird image overlay or too soft features
+Improper shadows, (natural) wrinkles in paper, fiber
+Angles on folds, realistic shapes and colour shifts where applicable
+The folds and also the picture lighting
+not 100% clean folds/comon human mistakes/ slightly crumpled paper/ white edges on paper thats not dyed throug ; does the design look posible?; hands; lighting and shadows; Background
+If the folds made sense, background and lighting, hyperrealism
+Lighting, backround, creases on paper
+I used my bare bones knowledge of common folds used in oragami to see if any mightve been used
+Clear background, alignment of folds
+Shadow placement, sections that look replicated in repeating patterns/folds, creasing and folding.
+I used my understanding of human psychology and social engineering skills as well as general intuition
+Paper Texture/Pattern Inconsistent Folds Background Details
+shadow, unnaturally curvy things, paper that behaved in ways I've never seen before
+proportions, backgrounds, and mostly seams/edges. models with no seams that were oddly smooth made the think they were AI. that being said, this as difficult even with those features.
+Unnatural smoothness or too much realistic detail
+I feel like AI omits a lot of non design folds and creases
+Very smooth texture without visible layers
+Background, creases, textures in each paper
+Creases, unevenness, lighting, background, patterned paper
+number of colors on the origami? gut feeling
+Color and folds
+Vibes Tried looking at backgrounds for those that had more than just a simple solid color. Somethings looked weirdly bulbous which may be a lack of my familiarity with those types of folds. Things with drawn on faces are suspicious.
+Hands, lighting, and whether they looked too papercraft-y
+Mainly the background and the places where the paper looked fake or the lighting looked off and the creases looked weird
+Shaping of the model in general. also if there any detailed parts in the model those parts makes easier to understand it as well.
+I will not answer this because I feel that explaining how you notice AI will help train better generation.
+Folds and shapes that look impossible.
+Lines, crispness, seeing other models in similar styles
+The texture of the paper and general physics
+Lighting that looks off or features that look too thin/don't demonstrate paper spread and similar impossible borders. Some images like the buff cat or dragon look possible with cutting and glue but not simply origami
+Soft smooth lighting and composition. Irregular folds
+Folds and background
+Creases in paper and coloring and patterns
+Features to small that were to detailed for the thickness of paper.
+Shape, number of edges
+Strange flap placement, odd backgrounds
+Cleanliness (humans are not perfect and thus make pleats and folds where sometimes you need to make measuring folds or creases that show up in a place that should be completely flat in the final result)
+Forms that did not look folded
+Weird folds, odd corners, lighting
+The smoothness of the picture, whether it was floating, long strips of paper that didnt look like it came from a square sheet, printed patterns (bunny face) that would need to line up exactly
+Background + details, sometimes there are paper edges that dont make sense
+Shading, quality of image, quality of folds
+The folds, but that didn't help much because of my lack of experience. I also looked at the sourroundings trying to look for patterns common in AI images, like the weird blur.
+Mostly impossible folds & colorchange, and thickness of flaps especially near detailed areas like head/faces. And also unfolded precrease lines, in most AI images, are very consistent.
+Fold lines on flat surfaces, unrealistic color changes and weird layering or patterns
+Background, shades, context clues around the origami like hands and complexity of the folds. I also looked for possible imperfections or natural folds and motion of the paper.
+AI tends to smooth things out and has a very specific style of lighting. Also i tried to see if folds made sense. Though some of them stumped me and i could totally be wrong
+I dont know
+realism in crease patterns
+realistic edges and whether a side needs a curve
+Some of the model where "too clean"
+Shapes without seams that dod not seem possible.
+Unnatural ends like too many corners
+If the fold locations and paper color change spots made sense. Also how smooth/perfect the model looks (to an extent)
+Shadows and smoothness
+Folds are too clean, shading too even
+Smooth curves
+Im a noob at origami so i just simply guess from the edges and folds and also look for clues from the background
+Shadows, crease crispness, and backgrounds
+Paper wasn't clean in some parts. Grid paper meant it was real.
+Honestly just vibes
+Shadows, lighting or is a hand present, details in the background
+In some cases the paper didnt look like it was folded but rather that it was molded into a shape
+The backgrounds and whether they looked shiny
+lowkey everything around the origami like quality of the picture, fingers, background, etc
+Inconsistencies and improbable shaping
+Too much realism
+Paper texture, meaningful folds, airbrushed look
+Common folding techniques (open sinks, correct color change forms, logical pleats) and recognizable imperfections.
+paper texture, fold creases, background of image
+Getting paper to be round is exceedingly irritating in my experience, so anything overly round, or with parts sticking out where it would be sufficient to achieve. I also looked at the patterns on the paper where applicable, and whether it felt like the fold marks left on the paper made sense, or alternatively, a lack of fold marks at all
+Various origami fold and crease patterns, material and texture against light and other environmental cues.
+Sensible folding outcomes
+Edges of the folds, realistic form
+Some weird folds, I don't know.
+Creases and sided of paper and their match
+Creases, shadows, backgrounds
+The backgrounds, the feasibility of the folds of the folds, and mostly the rationale for why a human would make it. If a human were to make it, would they make it that detailed? Would they put it in a nicer space to take a photo? Would they make it resemble what its trying to show in a simpler way? Was this made by an AI model that was overcorrected with training to make hands look really detailed and human? Even with all that, I still feel so unsure about most of them. There were some that I was very confident were AI, but it was a lot harder to be sure if any of them were real, especially because really good origami already looks unrealistically good anyway. Id love to know the results eventually, and if you were to make a survey like this again, itd be nice if there was a slider for how confident you were it was AI or man-made!
+Looked for unrealistic folds and wet shaping
+guessed
+Bokeh, logic, folds
+Texture and the background
+Weird hands, lighting, unrealistic pleat patern (from a newbie experience)
+Mostly looking at shadows and how the paper creases looked
+Blurred edges, rounded folds, random stuff in the background.
+Inconsistencies, overly smooth details, odd bg elements, thing that would only be there if it wasnt generated
+Patterns I've seen in real origami
+Creases, feasibility of design, imperfections, lighting
+Imperfections in folding or background suggests real images
+Creasing patterns, achievable shapes, double sided paper/color
+Types of folds
+Color changes and variability of patterns within the color of the model
+how realistic the background looks (shadows, hand features, etc)
+Too sharp edges, weird overtones, doesnt look stable
+Folds that went nowhere, even lighting
+Inconsistent backgrounds, stresses around the points that would be folded a lot, and the amount of paper that would build up depending on the number of flaps.
+Too many segmented color areas, like a tiny square fold for the eye being a separate color.
+Background of photo, not being able to follow where paper folds from?
+Lighting, crinkles in folds (or lackthereof) where there should be some, unrealistic roundness or curvature, overly complex areas where it didn't seem possible
+The background and if there were any indicators that it was AI because of that.
+Comparison in context of origami i have seen, details on the folds, general AI vibes
+The image's appearance and variety
+background
+Followed Lines and checked image quality
+color grading, gut instincts
+Feeling
+Folding the paper
+symmetry and perfect spheres
+Classic ai image lighting, folds that didnt make sense,
+Background, difficulty
+line work + background
+If it looks too clean or the shapes didnt really look like they would be able to come from one sheet of paper from the humanoid models in particular
+texture of paper and background
+the background and lines
+How the paper folded
+Floating, background
+I checked if the shadows made sense with the light sources, if the overlap of folds made sense, and if parts of the piece could have been improved by simply creasing the paper differently.
+Crinkles and authentic backgrounds
+Consistency of lies, patterns on patterned paper, if the model is too smooth, some typical for origami stuff like colour peeking from inside
+Pliegues que armonicen
+Shaping of curves, lack of shadows, lighting
+Realistic folds, for example I know goku was ai because of the creases in his pants.
+glossy/shiny models seemed more like ai, rough/imperfect models seemed more real
+How possible/impossible the folds and proportions are
+Perfect folds or not. Hands. Lighting.
+Imperfect but attempted symmetry Overly smooth hands or texture
+Stranger shape, weird background, fold marks
+perfection
+The background
+symmetry, lighting, folds that made sense
+Texture, shadow, background
+Image clarity, the background, and realistic folding
+Weird shapes unlikely to come from origami paper.
+background, complex curves
+Hands, texture of the paper and lighting, how smooth circular shapes were, if something looked like it could realistically be made from paper
+Flaps and fold that seem to come from impossible places and a smooth airbrushed look
+Folds being possible
+Symmetry texture
+Vibes
+I looked for whether or not the finished product appeared more like a 3d model of the thing it was mimicking, as I presume AI would simply generate an object shape and apply the image of folds to mimic origami, rather than carefully folding to create the shape.
+Background distortion and camera focus blur, things from popular media that have too many details rendered on a flat plane which shouldnt or dont seem possible to fold.
+I looked for realistic proportions and certain lightings, as well as realistic color changes.
+consistency in the folds when there's symmetry and parts that make sense like color changes or flaps that aren't randomly placed
+Missing folds. Sometimes different parts of the model were continuos paper where it really dodnt make sense. For more complex models I trusted the marks of the original box pleating grid.
+I tried to follow what folds I know, but some of them were tricky. I also looked for typical AI artifacts or weird lighting.
+Unsual folds or quality of photo
+If it seemed too 3d like a cut out template.. I also looked at the background as a secondary reference..
+inconsistencies
+Colour changes, curves
+Completely perfect models; origami is never completely perfect. You can get close but its just not possible in my opinion.
+Any creases that looked out of place, or lines that might be merging into each other
+Whether or not the photo in general looks natural eg the background or any hands that are present
+crease and color
+the creases in the paper, the
+Details
+Imperfections
+anomalies
+thinking about if i could fold the paper to look like the photo. but i don't do origami often so i may be just stupid and bullshitting around.
+Smoothness, "not right", inconsistent shadows, weird backgrounds
+backgrounds, paper textire
+the light source and the shadows, did certain models have stands, where the paper was folded or tucked - did it look too smooth
+contextual features (hand, background); complexity of model; texture of paper
+How it sits on the surface, bulk of folds, shadows, background blur
+Shadows and fold lines
+The creases in the paper: not the actual folds, but the wear patterns in the unfolded parts. Hands. The background: if it was uncanny, if the origami was floating, if there was a stand or not. The pattern or print of the paper.
+weirdly soft/mushy paper, inverted color where there'd be no way to see the other side
+Hands, shadows, no clear folds, not looking like the animal
+logic of folds
+the textures of the flat areas and edges, as well as the folds.
+Simetry, fold, logic construction
+creases
+lightning, unsymethetic, not enough fold(look like cut out of template paper craft), unnecessary fold, model that have curve and straight fold in the same model, color change with no other fold around
+Creases, paper, background, uniformity
+Extremely fine detail, inconsistent folding patterns, color shifts that seemed very unnatural
+Symmetry, unevenness in folds, backgrounds of the image, texture of the paper
+More like a gut feeling. The lighting, the backgrounds, the vignettes.
+Paper quality/consistency, spherical shapes or details that dont seem possible to form normally, folds that seem natural to make when styling a finished piece
+Way too smooth
+Distortion, creases look weird ig
+Crease and background and if it was defying physics
+Smoothness, color, consistency, vibes
+General appearance of the picture. Presence of "impossible" creases folds, weirds folds, excessive neatness
+how smooth the background is, inconsitency in folds, too perfect looking
+background, details, symmetry
+Background, colors
+Weird folding, background features, and shadows
+If the amount of flaps is possible, how much detail does a model have, shape of parts (too round/perfect), if its too "clean"
+Too perfect, focus points, folds not making sense
+Usual ai pic glitches, unreal shapes, paperkraft instead of origami, lack of imperfections
+Foods that didnt match up, folds that looked impossible, faces drawn on, cartoonish backgrounds, ai blur
+shadow, hands, background
+Accuracy/possibility of paper layers stacked up, human-made creases, appraisal of whether model is even feasible from just a single sheet
+consistency of patterns, my guesses to whether it was feasible to make for the harder ones (eg crow being too realistic was my rationale), looking at the folds and seeing if they match
+Multiple colors, too perfect texture
+Mostly the background
+Mushed details
+How the different parts come together, or if the model looked too good to be true, or the background honestly.
+Too much saturated colors -> AI "Unrealistic" or inconsisten creases -> AI
+La experiencia de plegar
+Symmetry, shadows, realistic texture, image framing and background
+smoothness, unlikely shapes, weird perfect lighting
+(since i dont know much about origami) The hand texture, the background, the shadows
+smothness. if everything is smooth it is AI
+The bunny had like an animation like hue to it, the Pokmon looked like it had been cut in certain places. Then I tried to look at shadows, details, and sheen. If Im being honest Im only confident with the bunny but some of them had details that didnt look as feasible even though Ive seen people do amazing creations with origami. But there are those small details like really tiny fingers where Im like maybe with a scissor but otherwise no.
+Paper fold and creases
+Background, imperfections, lighting
+Background, the surface of the paper
+Number of corners mostly
+Hands, also if it had too many colors I was skeptical
+Background haha and if the cut was clear
+background + texture making sense
+Patterns not continuing over folds, strange lighting, no crease lines shown
+If it's too detailed and I can't see how it could've gotten like that
+Background features
+what looked like weird folds (i don't know origami), overall vibe, background/lack of background
+Creases and background. But in General no real club just guessing
+paper that seemed to come from nowhere, folds that didnt make geometric sense/not quite symmetrical enough, background things that didnt make sense
+More than 2 colors, curves, level of complication vs smoothness of paper
+How shadows fell on the origami. Feasibility of the curvature of folds.
+Structure of the model itself + background objects and shadows
+Creases that looked like mistakes vs creases that looked impossible and the background of the image, sometimes
+How possible to make the folds seem
+The complexity of the shape. Whether the shadows and folds made sense.
+ai artifacts in background
+Colors should work: paper has two sides/colors. No or weird crease lines is suspicious. The cactus with all texture lines being straight vertical was also suspicious.
+Paper
+Details in the model as well as trying to tell if certain folds were even possible
+Amount of folds on flat surfaces, something with a lot of appendages and no folds on its body was dogy for me. Also the kind of paper and the evenness of the folds/cuts. Less perfect looked more real.
+there can only be so many edges of a paper
+Complexity, almost perfectly round shapes, sometimes unnatural sheens
+Common fold patterns, weird glossy surfaces
+I looked for folds that I could identify and whether there were any fold marks.
+Klassik orogami folds, paper structure, room (loght & shadows)
+Texture, lighting, reasonability
+Folds that dont make sense, colour that isnt quite right, texture on the paper, light sources not matching up, general gut vibe
+I looked for fold/paper texture appearing realistic as well background elements being visible/well-defined (vs blurry misshapen or featureless backgrounds). I also tried to look at how points were formed and try to imagine what folds might make that point (like a sink or reverse fold)
+Folds that did/didnt make sense.
+Everything that wasn't the origami because I actually know nothing.
+Circular shaped or sharp corners/angles without visible folds made me skeptical. Wasnt entirely sure on some of the round shapes though
+Simetry, fingers, flaps thickness
+I looked for crumpled edges which seemed more real than ones where everything seemed impossibly perfect on tiny fingers on the figures. I thought origami was one piece of paper so some that had multiple colors as if it was multiple pieces of paper rather than one side being one color and folds reveling the backside color I was more likely to suspect as AI. For complexity I have seen some very complicated ones that predate AI popularity so I know they can be done but some seemed too perfect and like the proportions wouldn't work for there to be just one paper involved.
+Hands
+Shadows and whether it seemed too perfect
+Folds, color change techniques and packing efficiency
+Blemishes in paper (hopefully to indicate non-AI)
+Environment (like hands or background), rounded shapes with no fold lines, shadows
+Shadows and "human-looking" folds
+Too many protrusions that didn't look folded over enough times. Too-perfect anatomy.
+I guess if the folds made sense? But because I know it's possible to make mind blowing things I don't think I had hard cut decision on some stuff that looked more dementinal
+Too shiny too smooth is AI. Background too flawless is AI.
+Folds. Lighting. Background
+The way paper folds were represented, and eventually if paper's patterns remained consistent within the whole origami.
+Lighting is too even.
+AI photos tend to have a weird artificial lighting, also looking at how the paper wrinkled
+texture, color contrast, shine, color complexity, how doable the folds seemed, fold resolution (whether or not fingers/toes make sense)
+The hands/background/colors, the folding of the origami, whether it looked like it was paper version of an image or thought had gone into how it was folded (last one is kinda vibe bc idk much Abt origami)
+Light and shadows, unnatural softness of image
+Consistency in patterns, crispness of the folded edges > things looking too round?
+I tried seeing whether the model was too similar to the actual character it is folded to look like.
+Background lots of detail
+Lighting and how perfect it looks
+This shadows, the human's mistakes, the paper texture, the background....
+Not the origami, but the background
+Background, creases, familiar folds, quality of paper, smoothness of paper, imperfections
+Background, unfamiliar textures
+Warping
+If it looked "too perfect" or what I considered unfeasible (though AI is at the point where I fear only someone would experience could recognize a red flag). If the background didn't make sense to me that was also a big signifier.
+eyes, squash folds, backgrounds
+Symmetry, realistic placement on table, realistic front vs back side colors
+color palette
+Background mostly way
+if I think it's doable
+Hands, shadows, if the surface was too "bright", if the origami seemed more artificial, background
+hands, soft focus, blurry backgrounds, unrealistic creasing
+Odd curves or lack of folding
+The background, and if the paper was too "perfect" and flat in difficult to fold areas
+No clue
+Lighting
+The metallic textures often appeared AI, my son makes a lot of origami so I tried to look at the folds too, however I dont likely have the eye to determine real vs AI as Im not as familiar with the folds as he is.
+Inconsistencies, familiar techniques, anything that seemed unlikely such as several colors or anything too accurate
+Paper too smooth or too textured, discontinuity in folds, excessive decorations, photo too centered or evenly lit
+Seams and folds
+Consistency of paper flow.
+Colours
+Shading, grid crease marks, too clean paper
+one image the balance of the figure was not quite possible for it to stand
+would that be hard to shape, or are there creases that may be from an earlier step as reference point that are visible
+Background, nails of hand, shadows, AI appearance, extra folds
+I dont know they all looked pretty real which is scary
+How clean it looks. Also thickness
+background, tried to check for pattern consistency in modular/geometric patterns, directions of flaps/#of flaps, shadows on paper etc.
+The folds?? And details
+FALTA DE DEFECTOS, DESPROPORCIONES, MAS ESQUINAS DE LAS USUALES, ERRORES EN ILUMINACION
+The environment, hands in the photos, inconsistent patterns
+Shadows, realistic folds, minor defects
+Backgrounds or how detailed the paper was folded
+The shadows
+Symmetry. Types of foldings
+Imperfections, uneven things
+Too much roundness, too many corners, looking like a combination of shapes
+The colours, the texture of the image, and the absurdity of the creation
+Hands, hand structure/cleanliness/perfection, background
+The environment that the origami is placed in can be a giveaway, for example the standalone ones with white background to me seem more AI than someone holding their creation. The one of goku looks like AI, getting the creases on his pants look unreal
+Background and uniformity of color
+Small variations in folding, also looked to see how the eyes could realistically be made.
+Texture of paper, background, patterns in thought to be AI pics
+Sharp angle folds for AI and layered papers (models with fingers)
+if the surface seems plausible
+Photo quality, edges that didnt look folded
+I dont know
+I relied on my experience of how paper behaves and tried to find models that looked incompatible with my knowledge.
+The folds and the paper
+Impossible shapes & regular AI tell-tale signs
+texture of the paper, how much the folds looked genuine
+vibes, and if theres a background that helps to find inconsistencies with the AI
+Folds that are not perfect apparently seem real
+Texture of paper, but I know AI can do this too. Convinced myself the hands didnt look real in some, but I honestly have no idea.
+Too smooth with no distress on the paper, the rest was based on vibes
+Background, Lighting, Textures
+Background and what i thought were unnecesary seams and folds.
+Shadows, hand, background
+gut feel
+Shadows, background details
+Texture, whether it's physically possible for the object to be oriented the way it is, fingerprints if someone's holding it, continuity of surrounding objects
+Texture, fingerprints, whether it's physically possible
+If folds looked consistent, if the background made sense, how smooth the paper was
+How folded is it, how does the bavkground look like
+Patterns on the paper and their consistency
+Smoothness in the AI photos are telling
+Looking for the areas where the papers would've tucked appropriately into certain spaces, especially with symmetrical or radial designs.
+shine, complexity/ roundness
+lighting and creases
+Symmetry on both sides, if there were any crease marks that werent necessary to the final shape
+plausibility of colour changes, perfection
+Color changes, the number of colors, impossible looking folds/creases.
+How the folds came together; any messiness; recognizable bases
+I looked for flaps or color-changes sprouting out of blank paper. If there were no folded layers leading to the spot, then I knew it couldn't be real origami. I looked for symmetry and repeated patterns. If the patterns were consistent throughout, I was more likely to rate it as real. I counted fingers and checked that especially the folded layers were consistent on both sides. I was suspicious of overly glowy lighting and overly round features in hard paper. If it looked like it was being pressed out from behind, like the paper was about to burst, I was more likely to rate it AI. For photos with hands in them, I looked the creases in my own hand and tried to compare. I also checked background features; if they looked airbrushed or didn't make logical sense (like the pencil shavings in one photo) I was more likely to rate it AI.
+I generally looked for clarity in the image and the plausibility of surroundings and lighting
+Complexity of shapes
+The quality of the picture
+The fidelity. I think more complex human made origami will feature more errors and looking out for inconsistencies with continuity and physics.
+Shadows
+Background, do the folds and patterns make sense, does it look too perfect
+The light quality of the paper
+Background discrepancies, lines that looked like they didn't make sense (to my limited knowledge), that AI blur effect
+Missing creases/folds, somewhat blurry. Too simple or Complex (really tiny folds)
+Feasible folds, weirdly detailed backgrounds, imposible folds, illumination.
+odd lines, weird folds, flat colour where there should be depth
+Background was the main thing which is scary because if you could get the ai to make some fitting background I really could barely tell on most. Imperfections and creases are an obvious sign of real models and that helped aswell. Another minor thing which my experience helped with was how manageable and realistic the model was ( color changes espically)
+Crease lines
+I fold origami in like from "paper books tutorial" way, not at all in the "giant paper graphing pre crease" kind of way, so some if the images i could imagine how you could precrease it and do a very intricate complex fold, like I have def seen an origami Charizard before but not sure if the same one is in the photo, I looked for symmetry bc all origami really comes down to that, shadows help diff between AI and real imo, too photoesque hints AI, curved edges makes things not sure
+Odd patterning on paper, seemingly flat creases where small amounts of volume should be, general intricacies such as rounding of paper edges as well as background information
+Overly puffy/round shapes, perfectly centered subject, kinda shiny
+Overly smooth look, unrealistic shaping
+Gut feeling
+Background/lighting, creasing and if it was bent, details of the specific material, angle
+Any weird random folds
+Background, complexity and incoherence
+The shape of the hands, the creases, and the surroundings
+Shade, environments and imperfections
+Texture, pre folds that should or should not go through layers, paper edges
+creases, crossref to my memories of what I've seen irl, imagining the folds (trying), symmetry, background
+Hands, shadows, color changes, pattern orientations, layer orderings
+Some folds did not make sense and looked like they didnt go anywhere, otherwise I used mostly context suck as backgrounds
+the shadows, the creases on the origami, and a bit of the background
+Layers
+The folds or how the color changee
+folds that shouldn't exist and too good of lighting.
+Thickness of paper at certain points
+Truly vibe based
+Since it's origami, I just looked for how doable or real it looked, other than keeping an eye out for hallucinations or artifacts
+Crisp lines, defined prints amd realistic paper folds
+Human imperfections in the edges of folds, weird backgrounds
+Creases, folds, number of colors in design (should be one or two colors unless the paper is patterned)
+Background and shadow accuracy
+inconsistencies, like wrinkles or small rips in the paper indicdated real while wierd over-smoothness or errors that didnt quite make sense suggested ai. i wanted to look more for folds that would be impossible to make but i just do not knoe enough about origami
+Smooth edges instead of clear and sharp creases
+How smooth the paper and fold lines were, the shadow in the image
+Unnatural folds, and weird structures, though I feel that those parameters may be very misleading
+Paper too perfect, nonsensical folds (would make sense for the character to have them, but not geometrically)
+texture of paper, thickness of paper in areas where lots of pleating and layers expected.
+If it felt realistic to me or very polished or not
+Weird curves
+Colors, curves? The curves looked too perfect and round on some, subject matter
+Nothing in particular, sorry!
+background and ability for paper to actually fold that way
+Illogical folds, weird textures
+The neatness and creases of the folds, if they are too sharp, it could be AI. The actual subject of the model itself, if they are like a cat flexing muscles or Goku standing, feels like humans would not make those models or even if they do, they won't just do it in that pose, in general. The colour combinations, no one would make a Charizard with a single colour, they would use origami paper with a secondary colour on the back. The background, if the photo is too composed, with an artificial photo studio setup, gives off an AI vibe.
+Folds that make sense, imperfections in creases, that sort of thing
+Weird blurring, inconsistent lines
+Realism, if the model would be possible to fold based on what i have seen from designers that strive for realism like e.g. Kota Imai
+If the background photo had signs of AI, if the angles made sense/were too round, if there were too many corners/edges
+Arbitrary seeming diagonal layers, being able to see many edges along side/bottom of model but vibes to a large degree.
+Light source coming from the wrong place compared to how the objects in the photo are lit, missing lines where a visible fold should be, object looking too smooth, hand holding object looks too smooth, object looking too rounded and 3D with too many large surfaces (noted this with the cat and venasaur, not sure how else to describe it except balloon-ish).
+Origami looks too cute or realistic, blurry backgrounds, too shiny
+Lighting and grounded
+Texture of the paper, if it looks too perfect
+I used the background and the definition of the folds.
+Just vibes
+Shadows and backgrounds
+Creases
+Unnatural smoothness, weird patterns
+Angles, folds, colours
+physical possibility of folds
+Weird textures or lighting mostly.
+Wenn es zu rund war, tippte ich auf ki und wenn Faltungen unntig oder unglaubwrdig wirkten.
+Realistic folding patterns and consistency in shapes, backgrounds
+Background items looking too smooth, Picture quality
+Multiple colors / irregular looking white and colored sides of paper. Finishing details (eye squash folds, articulated hooves etc)
+Smoothness of the paper, background, camera angle, details
+Weird shadows/background, tbh this was super difficult
+Texture, shadows, symerty
+Impossible geometry, inconsistent details, backgrounds
+As Ive seen and folded many models among the years I looked for incoherent aspects, some layers that couldnt pop out of nowhere, some overly rounded shapes, weird color changes that dont make much sense and some casual AI flaws with crooked parts where the AI didnt really know what to generate. Despite all of that, Im pretty confident that I did bad on my classification.
+just vibes
+curved ceases
+Parts that are too small or impossible colour variations
+Unrealistic folds, something illogically detailed
+Most of the time, some folds just didnt seem natural, or the model was kind of asymmetrical.
+Some blurry effect
+Idk more the image and what I think is more probable
+Looking for the bulkness of the paper, like sometimes there are more limbs than its possible to make with only the edges of the paper (for example the crab) so some limbs shold be bulkier, or in a gente with all fingers where is the excess paper to make all those tiny indepedent flaps
+Creases in the laler
+Colours, lightning, complexity
+Shadows and forms
+Small creases, rips, inaccuracies or bends in the paper that didnt feel perfect. Different blooms in the photo quality and smoothness in the textures that seem uncanny
+guess work
+Too much curvature/convexity/concavity without attendant folds or creases. Generic shadowing
+Trying to think about folding it. Weird backgrounds and things like that.
+Some parts looked more puffed up than possible
+AI sheen in the image, 3+ colors in the origami
+I looked for signs of humanity; rips in the paper, fingerprints, faded guideline foldsif I didnt see any of those things, I doubted that the piece was real.
+Sometimes the surroundings, the hand holding the object or the lighting. Or the pattern and the folds.
+The busy staged backgrounds look like something AI would do. Things that look like they'd need support standing without support vs things clearly held up by wire. Some things where the details are a little too specifically something an algorithm would scrape from a photo but not something an artist would
+Shadows, edges, background
+uncanny smoothness, excessive or inadequate symmetry
+Are the folds believable/overcomplicated models
+Rounded shapes or structures that didnt look like they could stand
+Color changes, details such as appearance of eyes, corners of the paper, more than two colors, rounded shapes w/o creases
+There's something that just looks wrong (?), it's like uncanny valley - something just seems off. I also have an ex who loved origami so I've seen a lot, and he would tell me a bunch about it, so I feel like I know an okay amount about what people actually want to make with origami and what people are able to make with origami.
+Vibe of photoblurriness, feasibility of model
+whether it looked really glossy
+If it's looking like real paper
+lighting, smoothness, paper folds
+Overfiltering General vibes
+The background!
+Too perfect, no variation in shadow for the shape
+If it could be possible to make the fold, patterns or colours in the paper
+AI pictures seem too glossy a lot of the time. I do not know anything about origami so I am strictly guessing based off of how glossy it looks, how the background looks, and how obscure the object is. Like I don't think anyone who would want to see an origami Watcher from Slay the Spire are going to AI generate it, that feels niche enough to be real.
+I tried to think about where the paper that's not visible went
+Texture
+Shadows, texture
+Extra folds, weird curves, front/back of paper
+How physically possible the folds seemed. The AI images seemed to just apply an origami texture to the model. Also, symmetry.
+The backgrounds on some
+Other objects in photo, lighting, whether models look physically possible
+Clues from the way the photo was taken//lighting
+Some of them were low poly papercraft, not origami. Otherwise weird folds, but also background and surrounding.
+Backgrounds and shadows
+Textures, symmetry, incoherent ridges and folds
+I looked for lack of edges to the paper- folds, even when they have softness or are wet folded still have an edge. I looked at the way the models were standing- most models needs stabilization of some sort since they arent always designed to be weighted on the bottom- especially things with large heads, arms or wings. I looked at the number of colors in the paper. If there are more than two colors, it likely that there was some sort of trickery involved- editing, ai, or multiple sheets (which most sophisticated folders seem to shy away from). I looked for background imagery- was it a staged shot and did that staging appear to be too perfect?
+Possibility that it's foldable; wrong shadows
+Coherence, comolexity, curves/angles and the background.
+Backgrounds, improbable structures or paper texture/shaping
+Matching edges, realistic curvatures
+Artist hands, texture graininess, invisible folds or needless seams, inaccuracy to source material.
+Paper edges, if the background felt off, how paper like it looked, pure guesswork
+complex shapes that didnt make sense with a simple pattern, odd folds. Sometime somahe just feels off idk. I dont know if I have a good eye for it since I havent done too much
+creases and imperfections such as little dents
+Background and lighting, then if there were substantial amounts of crease wear for the complex projects
+Shadows, odd looking angles
+Imperfections, Folding marks
+Real objects have contact shadows.
+Outlines
+If the shapes had a weird geometry and if it was able to be un-folded as a square, something like a hand (6 points) is possible only if you have a very big paper to create the shapes necessary to add +2 points to the figure, so something with more than 4 points and very tiny/slim has no sense in my mind (if it is real, I have no idea how it was made lol)
+The background, and weird folds
+Imperfections and coherent lighting (real ones should have them)
+If the paper looked continuous, shadows, textures
+If the structure made sense or if i already knew the origami
+Paper craft like, odd folds, maybe something doesnt make sense
+Real is neat but not too smooth; if people's fingies looked weird (fake); folds that wouldn't make sense where they were (fake); thought about if I could picture myself being able to make it (real)
+Overlapping/intersection of folds, consistent complexity across features of the model, raw edges of the paper being shown.
+Rounded or designs that are lined up in a way that don't look like the same plane looks like ai
+Sometimes I guess its just a feeling or it looks too perfect, but dang,,,,
+Irregularities and assymetries
+Symmetry, background details or lack thereof, pattern consistency on paper
+general inconsistencies, things that i think wouldn't quite match up
+Imagining the crease pattern
+shadows placement
+The logical in the foldage, the details
+illogical creases, parts blending into each other
+Smoothness, weird shapes that dont look like paper
+Creases and global form (smooth edges, color changing, etc)
+Fold lines on flat area Imperfections Sometimes angles of folds required to obtain a certain shapes
+consistency in the lines and posters in the paper
+Most of the decision making process was just instinct, plus if there were any fake looking backgrounds/ ai looking hands, that helped with the decision even though thats not the origami model itself. Perfections were also helpful e.g when folding with kami, some of the white shows through edges that have been folded a lot which looks realistic
+Smoothness of the folds, consistency of texture, torn edges
+If folds continue through, if it's symmetrical enough, how shiny are the corners and background, does it look 'logical'
+Can you actually see the folds and different layers of the paper? Fake creases and folds that are actually just lines, paper that changes color oddly, the design just floating/standing when it shouldnt. I think ai tends to make "full" figures as opposed to flat, but i have to see the results to know how well i judged that
+Familiar folding techniques like pleats and trying to reverse engineer how it could be folded
+Symmetry
+tbh, looking at the photography in many cases: blurriness and weird lighting give AI away. Good hands and a rough complex background that looks like someone's real desk or something usually indicate a real photo. Otherwise, some things I recognized from books, like the rabbit (i hope). In some images that I guessed were fake, the paper texture, creases, and shadows just looked kind of off, maybe too smoothed or sharp, maybe not enough noise.
+Raw edges, shadows that makes sense, folds that make sense, but I know I did terribly
+Primarily lighting-color of light, direction of source, intensity for environment and how clean the diffusion of the light was. I also looked at which sides of the models had multiple colors and thought about whether or not the color placement made sense. I also looked for any features that would have required too many edges/corners of paper to be possible.
+Lighting and shadow
+Consistency in folding technique?
+Things looking too smooth, lack of shadows, what I thought were impossible folds (I might be wrong though I dont know much about it)
+composition, texture, how possible it seems physically
+Folding that doesnt make sense or things that look too smooth
+Folds
+Folds amd stability
+Shadows, smoothness of paper, hand normalcy
+Creases that seems useless
+Unevenness in the symmetry; overly smooth parts that seemed too glossy
+Intuition
+Visible folds, possibility
+Back ground sharpness, hands, consistency or incosistency of fold patterns, how the paper bends/rips/is damaged
+Weird smoothness, lighting or things where I was like I'm pretty sure paper doesn't work like that
+Fold context, or some origamis I have already seen before
+Too 'perfect' images, weird bits (blur, crease, shadows), or odd photo quality
+The number of "free edges" or areas where it could be a corner
+If the subject seemed to specific
+I looked for creases and rough edges for real and simple, more polished for AI
+Shadows, angles that look possible. Clear patterns, fuzzy backgrounds
+Recognizable folds or lack of them, conformity to the represented object. Hands being anatomically correct = AI somehow lol
+Background, blurriness, consistency
+Background features, paper texture and difficulty/how possible the shape is
+overly smooth paper/hands, strange or off lighting, if i think it would be possible (ie crow could be tissue paper but not other paper), mismatched folds (beyond human slight error) in symmetry, curved forms that dont follow folds, folds that look like a bit has been ripped off rather than folded over and unfolded, background oddities.
+Edges
+When it looks like it's just something with origami folds textured on top
+Stress on the paper for small thick folds
+Odd shadows, blurry spots, strange background
+Too round/weird edges
+Environment, direction of the folds, shadows and lighting, how possible does this seem without cutting any paper
+- 1 or 2 color, few decoration - the sharpness of fold - "Topology" of paper
+Whether it looked possible to fold.
+Backgrounds, styles, details
+weird folding line
+guess
+Inconsistent folds
+A bunch of tiny intricate folds that looks like it has to be 30 separate pieces of paper on a tiny scale
+Backgrounds shadows, too perfect replications in repeating patterns, too many edges
+Whether the shadows and background lined up with the model, whether the paper texture looked realistic, and whether folds seemed realistically possible based on what I know about origami and pictures of origami models (simple and complex) I saw before AI got good. Again, I wouldnt be entirely surprised to learn that theyre all AI, but I also think I recognize some of the paper in the peppermint model so Im inclined to think at least some are real.
+Folds, roundness, centered image, pose, light interactions, studio quality vs amateur like photography style, details in backgrounds, it's overall hard to tell buy the origami alone
+Smoothness and roundness of paper, presence of imperfections, details in the background of the picture, unnatural-looking folds (eg. Paper where there shouldn't be paper)
+Hands and how it looks
+i was mainly watching out for any inconsistencies such as a fold that one symmetrical half would have while the other didn't, or the origami figures being too similar to what i assume would be their base reference image... i'm a visual artist taking up visual communication for college so i'm quite proficient in telling the difference when it comes to visual art, however origami really had me stumped. i know the lengths to how clean origami could be made in real life and that made me second guess a lot of my options. i won't be surprised if i only get everything at a rate of 50/50 or even less.
+Absence of "extra" fold lines and paper that looked too crisp/flat/clean seemed like AI to me.
+Patterns on the paper, where folds starts and ends
+Background consistency, lighting and shadows, consistency and symmetry of folds, sometimes the paper seemed to curve or be rounded perfectly and I figured that was not possible to do in origami.
+the borders of paper and imperfections which signal real handmade work
+Width of paper, feel
+Wet folding, wavy and flat edges, folding impossibilities and standard folds
+Folds, discrepancies
+Too smooth
+Strange light reflection, smooth round edges
+Went on instinct
+Textures and shadows, if hands actually came into contact with the paper in the image.
+Features that looked impossible to make from one sheet or features that were too small and detailed
+Whether the folds looked like they were going somewhere
+unrealistic folds
+small details
+The texture of the paper and the background
+Lighting, background, paper edges/creases
+Shadows and background more than the origami itself. I also looked for uniformity in folds, as well as uncanny accuracy.
+How plausible the amount of folds per space seemed, texture of paper, alignment of patterns
+Are the changes in colour consistent with the folds? Single colour models are therefore harder to discern than two-colour models. Both the very complex and the very simple models were hard to discern.
+Lighting and paper placement
+Impossible / unnatural folds, artefacts in the picture
+Background of the photo, texture of the paper, general feeling
+Textures, lighting, minor flaws
+The blurry lines in the folds, whether it makes sense or not. And how 'perfect' the background
+The background and shadows
+Minute details and repetition of texture, then going off of a gut feeling.
+Weird or impossible seeming shapes, weird textures or backgrounds, ripped or cut pieces, warped patterns, lack of creases, familiar folds
+fingers etc in the background (that look normal) seem more likely to be real. texture to the paper sends more likely to be real.
+The shadows
+Context clues from the surroundings of the photo, indications of possible folds
+AI flaws and the complexity. Some were also just really plain backgrounds, set something off in my mind
+Balance, shadows
+Blending of objects, unsettles lines, curves that felt impossible
+Extremely minor details, consistency in lighting
+I just went with my gut.
+2D or 3D
+Hands, light
+In case of patterns on the paper: if they change direction after a fold. In case of small folds: irregularities which would happen in a man made piece because of fingers.
+Inability to retain background, blurring lines, inconsistencies in folds of origami
+Too perfect or weird structure
+If the pictures had hands - if they looked real. Otherwise looked to see if there were too many corners/ edges.
+mainly lines that bend or warp unnaturally
+Asymmetry in supposedly symmetrical designs, bits of paper sticking out in odd places, ambiguous blending of folds/face changes
+Shadows
+Roundness and perfection
+Anything that looked inconsistent or too glossy, and this was a guess but I figured real origami wouldn't have eyes and faces
+complexity, shadows and fine details
+Folds, how the paper looked and the background
+Background looks fake, unclear folds, designs on the paper
+Straight lines, consistent lines, logical creases
+Weird creases
+Primarily imperfection/texture in the paper, showing intermediary folds done on the way to the final shape. I also felt the very staged photos would likely be AI, and I wasnt convinced that the ones with extra surface decoration were real either.
+The folds, artificial softness, and some intuition.
+shadows, folds, hands, blurry backgorund (i usually assume its AI if its blurry)
+folds/flaps (consistency?); colour change
+I spent far longer looking at backgrounds and edges than anything else
+Any inconsistencies in the fold and patterns in the paper.
+Well defined lines of folding
+Folds vs curves, twists, paper texture in the right spots, background elements
+Overall photo quality, background (if its too superficial or not), imperfections of actual origami and existence of shadows that make sense
+I tried looking at the shadows
+too perfect, weird angles
+weird lighting, strange background details, lack of any texture
+Mostly the flowing lines and roundness
+I tried to see how it was folded. There were some joints that were too intricate to be plausible to be made out of one sheet of paper.
+Non asymmetry
+Lighting and background, if the lighting is too good but the background is blurry or something I feel like that's AI
+Overly set-up images or overly complex patterns or textures that one could not create from origami
+Whether there are crinkles and folds in between to show that it could be real?
+Shadows and general feeling
+Folds dont line up, paper is too smooth, weird background details
+If folds made sense, if there was weird artifacting, or if it was too smooth.
+Folding marks
+blurry edges
+Shadows and continuity of folds, but I had a really hard time classifying them, and I'm sure I got most of them wrong.
+Weird textures, inconsistent junctions
+Blur, background weirdness, odd angles, roundness
+Edges, vibes
+Fold lines and textures
+Angles and wrinkles
+The fold, finishing product, and colour of the paper.
+Shadows, how the folds look, if they were way too clean, the background too
+weird lighting, grainy texturing, too perfect backgrounds
+AI artifacts along the edges, consistency in background props, consistent lines
