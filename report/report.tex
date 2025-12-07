@@ -35,11 +35,10 @@
 \maketitle
 
 \begin{abstract}
-
+Sections 2, 4, and 5 are done. statistical analysis to be continued.
 \end{abstract}
 
 \section{Introduction}
-Introduce the problem, background, and motivations for your research.
 
 \section{Methodology}
 
@@ -63,27 +62,43 @@ Over the course of 3 days, the quiz recieved approximately 2000 responses. Resul
 \hline
 Experience Level & Participant Count & Average Accuracy (95\% CI) \\
 \hline
-No experience       & 276   & $50\% \pm 1\%$\\
-Some experience     & 1196  & $50\% \pm 1\%$\\
-Advanced experience & 489   & $50\% \pm 1\%$\\
+No experience       & 276   & $68.79\% \pm 0.01\%$\\
+Some experience     & 1196  & $56.33\% \pm 0.01\%$\\
+Advanced experience & 489   & $55.42\% \pm 0.01\%$\\
 \hline
-Total               & 1961  & $50\% \pm 1\%$\\
+Total               & 1961  & tbd\\
 \hline
 \end{tabular} \label{table:summary}
 \end{table}
 
 \subsection {Binomial distribution modelling}
-Let each person's response to each image be modelled as a Bernoulli trial with success probability \( p \) (the probability of correctly identifying the image). For a participant answering \( n = 24 \) questions, the total number of correct answers \( X \) follows a binomial distribution \( X \sim \text{Binomial}(n, p) \). A $p$ value of $0.5$ indicates that participants are unable to identify images better than random guessing.
+Let each person's response to each image be modelled as a Bernoulli trial with success probability \( p \) (the probability of correctly identifying the image). For a participant answering \( n = 24 \) questions, the total number of correct answers \( X \) follows a binomial distribution \( X \sim \text{Binomial}(n, p) \). A $p$ value of $0.5$ indicates that participants are unable to identify images better than random guessing. [statistical analysis to be continued here]
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/score_histograms.png}
+\caption{Distribution of quiz scores by experience level}
+\label{fig:score_histograms}
+\end{figure}
 
 \subsection {Participant confidence analysis}
-A plot of the participants' confidence ratings against their actual accuracy is plotted in figure []. If participants were perfectly calibrated, we would expect to see participants with 0 confidence scoring 50\% correct, while those will full confidence scoring near 100\% correct.
-
-[scatter plot of confidence vs accuracy here]. include partial credit for "not sure"
-
-[histogram of different confidence levels for each pool of experience level]
+A plot of the participants' confidence ratings against their actual accuracy is plotted in figure []. If participants were perfectly calibrated, we would expect to see participants with 0 confidence scoring 50\% correct, while those will full confidence scoring near 100\% correct. [statistical analysis to be continued here]
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/confidence_vs_score.png}
+\caption{Participant confidence vs actual accuracy.}
+\label{fig:confidence_vs_accuracy}
+\end{figure}
 
 \subsection{Response bias analysis}
 [analysis of whether participants were more likely to guess "real" vs "AI-generated", and how that varied by experience level]. are people more likely to overassign real or AI?
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8\textwidth]{figures/image.png}
+\caption{do people assign too many "real" (right) or too many "AI" (left). Screenshot to be replaced with a better plot}
+\label{fig:response_bias}
+\end{figure}
 
 \subsection{Frequent misidentifications}
 [which images were most and least frequently identified correctly, and any patterns observed in these results]
@@ -91,22 +106,56 @@ A plot of the participants' confidence ratings against their actual accuracy is 
 \section{Qualitative survey responses}
 At the end of the survey, participants were provided two optional text boxes. The first asked, ``What features did you look for to help you classify what you saw?'' and received 1121 responses. The second asked, ``Any other thoughts about AI and origami?'' and received 635 responses.
 
-\subsection{Strategies for differentiation}
+\subsection{Differentiating features}
+Participants mentioned everything from the background and lighting, impossible folds, the texture of the paper, the layer thickness buildup or lackthereof, and color placement. Other frequently mentioned features included the hands, symmetry, precrease lines, and overall cleanliness. However, the features of perceived AI images contradicted across participants. Sorting the responses by accuracy illustrates the full picture:
+
+
+\subsubsection{Low-scoring strategies (reversed understanding)}
+Participants with the lowest scores, statistically worse than random guessing, tended to be those with less experience. These participants may have had limited exposure to real complex origami, and assumed models with more details were AI-generated. For example, one participant mentioned looking for ``overly complex patterns or textures that one could not create from origami,'' but may not have been aware of the complexity that is possible with modern origami.
+
+\subsubsection{Mid-scoring strategies (random guessing)}
+Participants with mid-range scores, statistically consistent with random guessing, commonly mentioned relying on ``vibes'', ``gut,'' or ``intuition'' or looking for the following features:
+\begin{itemize}
+    \item photo quality
+    \item superficial aspects like paper glossiness
+    \item complexity or cleanliness of the folds
+\end{itemize}
+These participants relied on features that are not distinctive to either real or AI-generated origami. For example, some thought that cleanliness indicated AI, while others thought the same for messiness. In reality, these qualities can vary across both real and AI-generated images and are not reliable indicators.
+
+\subsubsection{High-scoring strategies (accurate)}
+The highest scorers relied heavily on their past experiences with origami. This includes a strong technical intuition for what structures and color placements are physically possible with paper folding, as well as recognition of the specific models that were sourced for the quiz. Overall, the strategy was not to look at overall qualities like complexity or thickness, but to check that these qualities are consistent with the underlying structure of the model. 
+
+In a nutshell, the best strategy is to know origami well. This is unfortunately not a very helpful 
+
 
 \subsection{General sentiments about AI and origami}
 
-\section{Discussion}
-The numbers show that although experienced folders can still mostly distinguish real origami from AI-generated images, the general public is little better off than random guessing. Just a year or two ago, AI-generated images of origami looked more like low-poly papercraft, and many thought ``AI would never be able to generate convincing origami,'' yet here we are today. It's clear that at the rate of advancement of AI image generation technology, this gap is closing rapidly, and in a few years it may be impossible for even experienced folders to tell the difference by image alone, and possibly even video verification may also become unreliable.
+Unsurprisingly, the overwhelmingly dominant sentiment was of frustration and defiance to AI; the most common word pair was "AI sucks" appearing 23 times, with the second being ``F*ck AI'' appearing 17 times. Another dominant theme was of surprise and concern at how difficult it was to tell the difference, with tones ranging from disappointment (``This bummed me out'') to humorous coping (``These clankers are getting out of hand'') to resignation (``We're cooked''). Other sentiments that were commonly expressed included:
+\begin{itemize}
+    \item ``AI has no place'' in origami or other creative fields
+    \item The erosion of trust and ``magic'' of origami when realizing something is AI-generated
+    \item Concern for beginners being misled by nonexistent models
+    \item The loss of economic opportunities for origami artists
+    \item Origami in its physical form is safe from AI (for now)
+    \item Ethical concerns of training on artists' work, as well as environmental impacts
+\end{itemize}
+These attitudes towards AI are consistent with broader societal sentiments towards AI in creative fields beyond just origami.
 
-\subsection{Consequences for the general public online}
+\section{Discussion (Brandon's op-ed)}
+The numbers show that although experienced folders can still mostly distinguish real origami from AI-generated images, the general public is little better off than random guessing. Just a year or two ago, AI-generated images of origami looked more like low-poly papercraft, and many thought ``AI would never be able to generate convincing origami,'' yet here we are today. It's clear that at the rate of advancement of AI image generation technology, this gap is closing rapidly, and in a few years it may be impossible for even experienced folders to tell the difference just looking through a screen.
+
+\subsection{Message for the general public (non-folders who follow me)}
+I completely agree with your frustration, and I too lament the loss of trust and magic in origami just as much as you do. I would have completely believed the 3D bull and I find that deeply unsettling. But I want to assure you that AI has not, and will not ``ruin'' the value that origami offers for the world. It has ruined the ability to appreciate that value from a single photo, and that sucks. But ask any folder why they fold or what they enjoy about origami. The answer will never be ``to make pretty pictures that will get a lot of recognition on Instagram.'' No, the value is in the process of transforming a sheet of paper turn into something greater, the satisfaction of holding that creation in your hands, and the social bonds formed through gifting models and folding with others. A bunch of matrices in a box somewhere cannot take away that joy.
+
+And for those of you who don't fold but are just here to enjoy the content--I know exactly what you guys enjoy and it's not getting ruined either. I've been posting photos since forever, but 90,000 of you only started following once I started the ``top comment'' reels. Clearly you're not just here to see pretty pictures of origami. You're here for the storytelling, the surprise and suspense, even the chaotic humans interacting in the comments. You're here for that human touch that AI cannot replicate.
+
+So, yes, generative AI poses a lot of real threats when used by bad actors to deceive others. The online landscape and economic opportunities for origami artists will probably be disrupted for good. But I want you to remember and hold onto the true value of origami, which I think is deeper than what can be captured in a single photo.
 
 
+\subsection{Message for the origami community and creators}
+It's clear that our work may soon be mistaken by for AI. We must emphasize documentation: share the folding/design process, show multiple angles, and post crease patterns. It would be naive to think that AI could never falsify these as well, and it won't mean much to lay viewers, but it will buy time for your fellow community members to back you up until AI can catch up.
 
-
-\subsection{Consequences for the origami community and creators}
-It's clear that our work may soon be mistaken by for AI. We must emphasize documentation: share the folding/design process, show multiple angles, and post crease patterns. It's naive to think that AI could never falsify these as well, and it won't mean much to lay viewers, but it will buy time for your fellow community members to back you up before AI can catch up.
-
-But more importantly, we must lean further into the human connection of the origami community. One reason why the experienced folders were able to identify models more accurately was simply because they recognized models from designers they knew personally. No matter how realistic the AI images get, if you know the artist is real, then you know the model is real. So attend conventions, engage online, and build relationships with fellow artists around the world. Being mistaken for AI will not be fun, and some monetary opportunities may be lost, but origami is not ``cooked'' because our community is still strong. 
+But more importantly, this means we must lean further into the human connection of the origami community. One reason why the experienced folders were able to identify models more accurately was simply because they recognized models from designers they knew personally. No matter how realistic the AI images get, if you know the artist is real, then you know the model is real. So attend conventions, engage online, and build relationships with fellow artists around the world. Being mistaken for AI will not be fun, and some monetary opportunities may be lost, but origami is not ``cooked.'' Our community is still strong.
 
 
 \subsection{Distinction from AI-assisted design}

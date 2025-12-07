@@ -2,4 +2,4 @@ report/*
 !report/*.tex
 !report/*.bib
 !report/*.pdf
-!report/figures/*
+!report/figures/

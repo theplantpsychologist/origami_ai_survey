@@ -85,7 +85,7 @@ def import_and_clean_csv(filepath):
     # Convert to numpy array
     return np.array(rows, dtype=str)
 
-def extract_comments(filepath, output_file1 = "comments1.txt", output_file2 = "comments2.txt"):
+def extract_comments(filepath, output_file1 = "qualitative_responses1.txt", output_file2 = "qualitative_responses2.txt"):
     """
     Extract comments from the last column of the CSV file.
     
