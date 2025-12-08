@@ -279,6 +279,169 @@ def create_stacked_bar_chart(responses, title):
     plt.tight_layout()
     return fig
 
+
+def calculate_skew(responses):
+    """
+    Calculate skew for each row in responses.
+    
+    Skew = (real + notsure/2)/24 - 13/24
+    
+    Parameters:
+    -----------
+    responses : np.ndarray
+        Response data where column 0 is experience level and columns 1-24 are model responses
+    
+    Returns:
+    --------
+    np.ndarray
+        Array of skew values, one per row
+    """
+    # Extract only the model response columns (1-24)
+    model_responses = responses[:, 1:25]
+    
+    # Count "Real", "AI", and "Not sure" for each row
+    real_counts = (model_responses == "Real").sum(axis=1)
+    ai_counts = (model_responses == "AI").sum(axis=1)
+    notsure_counts = (model_responses == "Not sure").sum(axis=1)
+    
+    # Calculate skew: (real + notsure/2)/24 - 13/24
+    skew = (real_counts + notsure_counts/2) / 24 - 13/24
+    
+    return skew
+
+def plot_skew_histograms(advanced_responses, intermediate_responses, beginner_responses):
+    """
+    Create histograms showing the distribution of skew for each experience level.
+    
+    Parameters:
+    -----------
+    advanced_responses, intermediate_responses, beginner_responses : np.ndarray
+        Response data arrays for each experience level
+    """
+    # Calculate skew for each group
+    advanced_skew = calculate_skew(advanced_responses)
+    intermediate_skew = calculate_skew(intermediate_responses)
+    beginner_skew = calculate_skew(beginner_responses)
+    
+    # Create figure with 3 subplots
+    fig, axes = plt.subplots(3, 1, figsize=(10, 10))
+    
+    # Define consistent bins across all histograms for easy comparison
+    bins = np.linspace(-0.6, 0.6, 30)
+    
+    # Plot each histogram
+    datasets = [
+        (advanced_skew, "Advanced participants", "#3ce74a", axes[0]),
+        (intermediate_skew, "Intermediate participants", "#1282f3", axes[1]),
+        (beginner_skew, "Beginner participants", "#db3734", axes[2])
+    ]
+    
+    for skew_data, title, color, ax in datasets:
+        ax.hist(skew_data, bins=bins, color=color, alpha=0.7, edgecolor='black', linewidth=0.5)
+        
+        # Add vertical line at 0 (no skew)
+        ax.axvline(0, color='black', linestyle='--', linewidth=2, alpha=0.5, label='No skew')
+        
+        # Add vertical line at mean
+        mean_skew = np.mean(skew_data)
+        ax.axvline(mean_skew, color='darkred', linestyle='-', linewidth=2, 
+                   label=f'Mean: {mean_skew:.3f}')
+        
+        # Formatting
+        ax.set_xlabel('Skew (toward AI ← 0 → toward Real)', fontsize=11)
+        ax.set_ylabel('Number of Responses', fontsize=11)
+        ax.set_title(f'{title} (n={len(skew_data)})', fontsize=13, fontweight='bold')
+        ax.grid(axis='y', alpha=0.3, linestyle='--')
+        ax.legend(loc='upper right')
+        
+        # Add statistics text box
+        stats_text = f'Mean: {mean_skew:.3f}\nStd: {np.std(skew_data):.3f}\nMedian: {np.median(skew_data):.3f}'
+        ax.text(0.02, 0.98, stats_text, transform=ax.transAxes, 
+                fontsize=10, verticalalignment='top',
+                bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
+    
+    plt.suptitle('Distribution of Response Skew by Experience Level', 
+                 fontsize=15, fontweight='bold', y=0.995)
+    plt.tight_layout()
+    
+    return fig
+
+
+def extract_confidence(responses):
+    """
+    Extract self-confidence ratings from the last column.
+    
+    Parameters:
+    -----------
+    responses : np.ndarray
+        Response data where the last column contains confidence ratings
+    
+    Returns:
+    --------
+    np.ndarray
+        Array of confidence values, converted to float
+    """
+    # Extract last column and convert to float
+    confidence = responses[:, -1].astype(float)
+    return confidence
+
+def plot_confidence_histograms(advanced_responses, intermediate_responses, beginner_responses):
+    """
+    Create histograms showing the distribution of self-confidence for each experience level.
+    
+    Parameters:
+    -----------
+    advanced_responses, intermediate_responses, beginner_responses : np.ndarray
+        Response data arrays for each experience level
+    """
+    # Extract confidence for each group
+    advanced_conf = extract_confidence(advanced_responses)
+    intermediate_conf = extract_confidence(intermediate_responses)
+    beginner_conf = extract_confidence(beginner_responses)
+    
+    # Create figure with 3 subplots
+    fig, axes = plt.subplots(3, 1, figsize=(10, 10))
+    
+    # Define consistent bins across all histograms for easy comparison
+    # Assuming confidence is on a scale (e.g., 1-5 or 1-10)
+    min_val = min(advanced_conf.min(), intermediate_conf.min(), beginner_conf.min())
+    max_val = max(advanced_conf.max(), intermediate_conf.max(), beginner_conf.max())
+    bins = np.linspace(min_val, max_val, 20)
+    
+    # Plot each histogram
+    datasets = [
+        (advanced_conf, "Advanced Participants", "#61e73c", axes[0]),
+        (intermediate_conf, "Intermediate Participants", "#12a1f3", axes[1]),
+        (beginner_conf, "Beginner Participants", "#db3934", axes[2])
+    ]
+    
+    for conf_data, title, color, ax in datasets:
+        ax.hist(conf_data, bins=bins, color=color, alpha=0.7, edgecolor='black', linewidth=0.5)
+        
+        # Add vertical line at mean
+        mean_conf = np.mean(conf_data)
+        ax.axvline(mean_conf, color='darkred', linestyle='-', linewidth=2, 
+                   label=f'Mean: {mean_conf:.2f}')
+        
+        # Formatting
+        ax.set_xlabel('Self-Confidence Rating', fontsize=11)
+        ax.set_ylabel('Number of Responses', fontsize=11)
+        ax.set_title(f'{title} (n={len(conf_data)})', fontsize=13, fontweight='bold')
+        ax.grid(axis='y', alpha=0.3, linestyle='--')
+        ax.legend(loc='upper right')
+        
+        # Add statistics text box
+        stats_text = f'Mean: {mean_conf:.2f}\nStd: {np.std(conf_data):.2f}\nMedian: {np.median(conf_data):.2f}'
+        ax.text(0.02, 0.98, stats_text, transform=ax.transAxes, 
+                fontsize=10, verticalalignment='top',
+                bbox=dict(boxstyle='round', facecolor='wheat', alpha=0.5))
+    
+    plt.suptitle('Distribution of Self-Confidence by Experience Level', 
+                 fontsize=15, fontweight='bold', y=0.995)
+    plt.tight_layout()
+    
+    return fig
+
 if __name__ == "__main__":
     csv_file = "raw_data.csv"
     responses = import_and_clean_csv(csv_file)
@@ -312,6 +475,8 @@ if __name__ == "__main__":
     advanced_scores = scores[responses[:, 0] == "advanced"]
     intermediate_scores = scores[responses[:, 0] == "intermediate"]
     beginner_scores = scores[responses[:, 0] == "beginner"]
+    
+    
     # =======================
     # extract comments
     # ======================
@@ -334,17 +499,26 @@ if __name__ == "__main__":
     fig3 = create_stacked_bar_chart(beginner_responses, 
                                      "Model-specific success rate: beginner participants")
     
-    # Save or show
     fig1.savefig('plots/advanced_classification.png', dpi=300, bbox_inches='tight')
     fig2.savefig('plots/intermediate_classification.png', dpi=300, bbox_inches='tight')
     fig3.savefig('plots/beginner_classification.png', dpi=300, bbox_inches='tight')
     
-
+    # ========================
+    # Response bias (skew/lean)
+    # ========================
+    fig = plot_skew_histograms(advanced_responses, intermediate_responses, beginner_responses)
+    
+    # Save or show
+    fig.savefig('plots/skew_histograms.png', dpi=300, bbox_inches='tight')
     
     # ========================
     # Confidence vs actual score
     # TODO: line of best fit isn't accurate. Expected is 50% for 0 confidence and 100% for max confidence. Let confidence x mean an x percent chance of getting it right and 1-x percent chance of coin tossing.
     # ========================
+    
+    fig = plot_confidence_histograms(advanced_responses, intermediate_responses, beginner_responses)
+    fig.savefig('plots/confidence_histograms.png', dpi=300, bbox_inches='tight')
+    
     # fig, ax = plt.subplots(figsize=(12, 9))
     # advanced_confidence = advanced_responses[:, -1].astype(float)
     # intermediate_confidence = intermediate_responses[:, -1].astype(float)
