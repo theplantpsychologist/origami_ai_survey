@@ -242,6 +242,20 @@ def plot_score_histograms(responses, scores, score_levels):
         ax.legend(loc='upper left', fontsize=10)
 
     plt.tight_layout()
+
+
+    # Compute mean and CI for all experience levels combined
+    all_accuracy = (scores / num_total) * 100
+    mean_all = np.mean(all_accuracy)
+    se_all = np.std(all_accuracy, ddof=1) / np.sqrt(len(all_accuracy))
+    ci_all = 1.96 * se_all
+
+    print(f"All participants combined (n={len(all_accuracy)}):")
+    print(f"  Mean accuracy: {mean_all:.1f}%")
+    print(f"  95% CI: ±{ci_all:.1f}%")
+    print(f"  Std Dev: {np.std(all_accuracy, ddof=1):.1f}%")
+
+
     return fig
 
 def create_stacked_bar_chart(responses, title):
@@ -327,6 +341,84 @@ def create_stacked_bar_chart(responses, title):
     plt.tight_layout()
     return fig
 
+def plot_model_accuracy_by_experience(response_levels):
+    """
+    Create a line chart showing % correctly identified for each model
+    across experience levels (beginner, intermediate, advanced).
+    """
+    fig, ax = plt.subplots(figsize=(10, 24 * 0.45 + 1.5))
+    
+    experience_order = ['beginner', 'intermediate', 'advanced']
+    x_positions = np.arange(len(experience_order))
+    
+    # Calculate accuracy for each model at each experience level
+    model_accuracies = {}
+    
+    for i, model_name in enumerate(REAL_MODELS + AI_MODELS):
+        col_idx = i + 1
+        is_real = i < len(REAL_MODELS)
+        accuracies = []
+        
+        for level in experience_order:
+            column = response_levels[level][:, col_idx]
+            total = len(column)
+            
+            if is_real:
+                # For real models, "Real" is correct
+                correct = np.sum(column == "Real")
+            else:
+                # For AI models, "AI" is correct
+                correct = np.sum(column == "AI")
+            
+            accuracy_pct = (correct / total) * 100
+            accuracies.append(accuracy_pct)
+        
+        model_accuracies[model_name] = {
+            'accuracies': accuracies,
+            'is_real': is_real
+        }
+    
+    # Plot lines for each model
+    for model_name, data in model_accuracies.items():
+        color = '#2ecc71' if data['is_real'] else '#e74c3c'
+        
+        line, = ax.plot(x_positions, data['accuracies'], 
+                       color=color, alpha=0.6, linewidth=2, 
+                       marker='o', markersize=6)
+        
+        # Add label to the right of the last point
+        final_y = data['accuracies'][-1]
+        ax.text(x_positions[-1] + 0.08, final_y, model_name,
+               fontsize=10, va='center', color=color, fontweight='bold')
+    
+    # Formatting
+    ax.set_xticks(x_positions)
+    ax.set_xticklabels([level.capitalize() for level in experience_order], 
+                       fontsize=12)
+    ax.set_xlabel('Experience Level', fontsize=16, fontweight='bold')
+    ax.set_ylabel('% Correctly Identified', fontsize=16, fontweight='bold')
+    ax.set_title('Model Classification Accuracy by Experience Level', 
+                 fontsize=20, fontweight='bold', pad=15)
+    
+    # Add horizontal line at 50% (chance level)
+    ax.axhline(50, color='gray', linestyle='--', linewidth=1.5, 
+              alpha=0.5, label='Chance (50%)')
+    
+    ax.set_ylim(0, 105)
+    ax.set_xlim(-0.2, x_positions[-1] + 0.5)
+    ax.grid(axis='y', alpha=0.3, linestyle='--')
+    
+    # Add legend for colors
+    from matplotlib.lines import Line2D
+    legend_elements = [
+        Line2D([0], [0], color='#2ecc71', linewidth=3, label='Real origami'),
+        Line2D([0], [0], color='#e74c3c', linewidth=3, label='AI-generated'),
+        Line2D([0], [0], color='gray', linestyle='--', linewidth=1.5, label='Chance (50%)')
+    ]
+    ax.legend(handles=legend_elements, loc='lower left', fontsize=11, framealpha=0.95)
+    
+    plt.tight_layout()
+    return fig
 
 def plot_skew_histograms(response_levels):
     """Create histograms showing the distribution of skew for each experience level."""
@@ -627,4 +719,7 @@ if __name__ == "__main__":
     fig8 = plot_confidence_vs_accuracy(response_levels, score_levels)
     fig8.savefig('plots/confidence_vs_accuracy.png', dpi=300, bbox_inches='tight')
 
+    fig9 = plot_model_accuracy_by_experience(response_levels)
+    fig9.savefig('plots/model_accuracy_by_experience.png', dpi=300, bbox_inches='tight')
+    
     print("All plots generated successfully!")
